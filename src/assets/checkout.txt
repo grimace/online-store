@@ -1,0 +1,2822 @@
+<p>
+  checkout works!
+</p>
+
+
+<!--
+
+<div class="a-container page-container">
+  <div class="a-fixed-right-grid">
+    <div class="a-fixed-right-grid-inner" style="padding-right:290px">
+      <div class="a-fixed-right-grid-col a-col-left" style="padding-right:3.5%;float:left;">
+        <div class="a-row">
+          <div class="a-section" role="main">
+
+            <script type="text/javascript">
+              P.when("client-side-metrics").execute(function(csm) {
+                csm.setMarkerForWidget('bb', 'shipaddress');
+              });
+            </script>
+
+            <div class="a-row a-spacing-small">
+
+              <div id="shipaddress" data-step-index="1" class="a-row collapsed cacheable-spp-panel spp-panel celwidget" data-csa-c-id="g1b306-miavfy-z1fpw4-j5facr" data-cel-widget="shipaddress">
+                <div class="a-row js-hide shrink-placeholder">
+
+                  <div class="a-fixed-left-grid a-spacing-">
+                    <div class="a-fixed-left-grid-inner" style="padding-left:35px">
+                      <div class="a-fixed-left-grid-col a-col-left" style="width:35px;margin-left:-35px;float:left;">
+                        <h3>1</h3>
+                      </div>
+                      <div class="a-fixed-left-grid-col a-col-right" style="padding-left:0%;float:left;">
+                        <div class="a-column a-span3">
+                          <h3>Shipping address</h3>
+                        </div>
+                        <div class="a-column a-span9 loading-img-text js-hide a-span-last">
+                          <img alt="" src="https://images-na.ssl-images-amazon.com/images/G/01/amazonui/loading/loading-1x._CB485947033_.gif">
+                          <span class="aok-inline-block a-spacing-top-micro loading-text">Loading your address information...</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="pipelinedPageTitle" class="a-row aok-hidden">
+                  Amazon.com Checkout
+                </div>
+
+                <div class="a-fixed-left-grid panel-content">
+                  <div class="a-fixed-left-grid-inner" style="padding-left:35px">
+                    <div class="a-fixed-left-grid-col a-col-left" style="width:35px;margin-left:-35px;float:left;">
+                      <span class="a-declarative" data-action="page-transit-no-update-action" data-page-transit-no-update-action="{&quot;targetDeclarativeActionId&quot;:null,&quot;fromPage&quot;:&quot;spp-revieworder&quot;,&quot;toPage&quot;:&quot;spp-shipaddress&quot;,&quot;refTag&quot;:&quot;chk_addr_header_change_coll&quot;}">
+                        <h3 data-testid="" class="a-color-base clickable-heading expand-collapsed-panel-trigger">
+                          1
+                        </h3>
+                      </span>
+                    </div>
+
+                    <div class="a-fixed-left-grid-col a-col-right" style="padding-left:0%;float:left;">
+
+                      <div aria-label="Shipping address" class="a-section" role="form">
+                        <div class="a-row">
+                          <div class="a-column a-span3">
+                            <span class="a-declarative" data-action="page-transit-no-update-action" data-page-transit-no-update-action="{&quot;popoverLabel&quot;:&quot;Shipping address&quot;,&quot;fromPage&quot;:&quot;spp-revieworder&quot;,&quot;toPage&quot;:&quot;spp-shipaddress&quot;,&quot;refTag&quot;:&quot;chk_addr_change_coll&quot;}">
+                              <h3 data-testid="" class="a-color-base clickable-heading expand-collapsed-panel-trigger">
+                                Shipping address
+                              </h3>
+                            </span>
+                          </div>
+
+                          <div data-testid="" class="a-column a-span7">
+                            <div class="displayAddressDiv">
+                              <ul class="displayAddressUL">
+                                <li class="displayAddressLI displayAddressFullName">Susan Cathcart</li>
+                                <li class="displayAddressLI displayAddressAddressLine1">1804 E REPUBLICAN ST APT 1</li>
+                                <li class="displayAddressLI displayAddressCityStateOrRegionPostalCode">SEATTLE, WA 98112-4603</li>
+                              </ul>
+                            </div>
+
+                            <div class="a-section">
+
+                              <span class="a-declarative" data-action="a-modal" data-a-modal="{&quot;url&quot;:&quot;/ma/deliveryProfile?_encoding=UTF8&amp;addressId=5IGOA7TUKJWTXSGVASNIG13O3E1E031TPTATPT130E1E3O7PXTQ2EYA2OXH7MQAK&amp;cdpViewId=cdpIngress-1605903990-5IGOA7TUKJWTXSGVASNIG13O3E1E031TPTATPT130E1E3O7PXTQ2EYA2OXH7MQAK&amp;ingressPointType=TSPCCP&amp;popoverType=a-modal&quot;,&quot;popoverLabel&quot;:&quot;Edit delivery instructions &quot;,&quot;name&quot;:&quot;cdpIngress-1605903990-5IGOA7TUKJWTXSGVASNIG13O3E1E031TPTATPT130E1E3O7PXTQ2EYA2OXH7MQAK&quot;,&quot;footer&quot;:&quot;\n    \u003cdiv class=\&quot;a-section a-text-left\&quot;>\n    \u003cspan class=\&quot;a-declarative\&quot; data-action=\&quot;save-delivery-profile\&quot; data-save-delivery-profile=\&quot;{&amp;quot;popoverLabel&amp;quot;:&amp;quot;Save instructions&amp;quot;,&amp;quot;modalName&amp;quot;:&amp;quot;cdpIngress-1605903990-5IGOA7TUKJWTXSGVASNIG13O3E1E031TPTATPT130E1E3O7PXTQ2EYA2OXH7MQAK&amp;quot;}\&quot;>\n      \u003cspan id=\&quot;cdp-save-button\&quot; class=\&quot;a-button a-button-enabled a-button-primary\&quot;>\u003cspan class=\&quot;a-button-inner\&quot;>\u003cinput class=\&quot;a-button-input\&quot; type=\&quot;submit\&quot; aria-labelledby=\&quot;cdp-save-button-announce\&quot;>\u003cspan id=\&quot;cdp-save-button-announce\&quot; class=\&quot;a-button-text a-text-center\&quot; aria-hidden=\&quot;true\&quot;>\n        Save instructions\n      \u003c/span>\u003c/span>\u003c/span>\n    \u003c/span>\n  \u003c/div>\n&quot;,&quot;header&quot;:&quot;Add delivery instructions&quot;,&quot;cache&quot;:&quot;false&quot;}">
+                                <a class="a-link-normal" href="#">
+                                  Add delivery instructions
+                                </a>
+                              </span>
+
+                            </div>
+
+                          </div>
+
+                          <div class="a-column a-span2 a-text-right a-span-last">
+                            <span class="a-declarative" data-action="page-transit-no-update-action" data-page-transit-no-update-action="{&quot;popoverLabel&quot;:null,&quot;fromPage&quot;:&quot;spp-revieworder&quot;,&quot;toPage&quot;:&quot;spp-shipaddress&quot;,&quot;refTag&quot;:&quot;chk_addr_change_coll&quot;}">
+                              <a id="addressChangeLinkId" data-testid="" aria-label="Change shipping address" class="a-link-normal expand-panel-button expand-collapsed-panel-trigger" href="javascript:void(false);">
+                                Change<span class="a-letter-space"></span><span class="a-letter-space"></span>
+                              </a>
+                            </span>
+                          </div>
+                        </div>
+
+                        <div class="a-row">
+                          <div class="a-column a-span3"> </div>
+                          <div class="a-column a-span9 a-span-last">
+                            <div class="a-row">
+                              <div class="a-row">
+                                <form id="inlineStoreSearchRow" method="post" action="/gp/buy/storeaddress/handlers/popover/search.html/ref=chk_addr_locker_search_coll" class="locker-search a-spacing-none">
+
+                                  <input type="hidden" name="pickupUrl" value="/gp/buy/storeaddress/handlers/popover/search.html/ref=chk_addr_locker_search_coll">
+                                  <input type="hidden" name="hasWorkingJavascript" value="1">
+                                  <input type="hidden" name="storeIds" value="547663,550103,360083,11668221,338723,317423,40415401,10971061,43213591,39060401,10185031,36aed1e4-dd83-4be7-aeaf-1bffaaeca4c8,4ba690bd-d456-46bb-9f6f-51bfe415f4a6,323403,608183,576803,356923,90f712af-04a8-4c08-b0db-938f686e2f3e,51029711,370023">
+                                  <input type="hidden" name="searchCriterion" value="storeIds">
+                                  <input type="hidden" name="storeZip" value="98112-4603">
+                                  <input type="hidden" name="storeZip2">
+                                  <input type="hidden" name="storeCountry" value="US">
+
+                                  <span class="a-text-bold">Or pick up from an Amazon Locker</span>
+                                  -
+                                  <span class="a-declarative" data-action="trigger-modal-dialog" data-trigger-modal-dialog="{&quot;popoverLabel&quot;:&quot;20 locations near this address &quot;}">
+                                    <a class="a-link-normal" href="#">20 locations near this address </a>
+                                    <span class="a-declarative" data-action="a-modal" data-a-modal="{&quot;name&quot;:&quot;store-search-popover&quot;,&quot;popoverLabel&quot;:&quot;Search for an Amazon Pickup location near you&quot;,&quot;header&quot;:&quot;Search for an Amazon Pickup location near you&quot;}"></span>
+                                  </span>
+                                </form>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+
+            <script type="text/javascript">
+              P.when("client-side-metrics").execute(function(csm) {
+                csm.finishWidgetTiming('shipaddress');
+              });
+            </script>
+
+
+
+
+            <script type="text/javascript">
+              P.when("client-side-metrics").execute(function(csm) {
+                csm.setMarkerForWidget('bb', 'agelimitation');
+              });
+            </script>
+
+            <div class="a-row a-spacing-">
+
+              <div id="agelimitation" data-step-index="" class="a-row collapsed cacheable-spp-panel spp-panel celwidget" data-csa-c-id="sgcpqc-6lo67c-gv73x6-p71a79" data-cel-widget="agelimitation">
+                <div class="a-row js-hide shrink-placeholder">
+                  <hr class="a-divider-normal">
+
+                  <div class="a-fixed-left-grid a-spacing-small">
+                    <div class="a-fixed-left-grid-inner" style="padding-left:35px">
+                      <div class="a-fixed-left-grid-col a-col-left" style="width:35px;margin-left:-35px;float:left;">
+                      </div>
+                      <div class="a-fixed-left-grid-col a-col-right" style="padding-left:0%;float:left;">
+                        <div class="a-column a-span3">
+                          <h3>Verify your age</h3>
+                        </div>
+                        <div class="a-column a-span9 loading-img-text js-hide a-span-last">
+                          <img alt="" src="https://images-na.ssl-images-amazon.com/images/G/01/amazonui/loading/loading-1x._CB485947033_.gif">
+                          <span class="aok-inline-block a-spacing-top-micro loading-text"></span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+
+
+            <script type="text/javascript">
+              P.when("client-side-metrics").execute(function(csm) {
+                csm.finishWidgetTiming('agelimitation');
+              });
+            </script>
+
+
+
+
+            <script type="text/javascript">
+              P.when("client-side-metrics").execute(function(csm) {
+                csm.setMarkerForWidget('bb', 'taxid');
+              });
+            </script>
+
+            <div class="a-row a-spacing-">
+
+              <div id="taxid" data-step-index="" class="a-row collapsed cacheable-spp-panel spp-panel celwidget" data-csa-c-id="yr6bpk-v00bqp-gm1fal-sifp98" data-cel-widget="taxid">
+                <div class="a-row js-hide shrink-placeholder">
+                  <hr class="a-divider-normal">
+
+                  <div class="a-fixed-left-grid a-spacing-small">
+                    <div class="a-fixed-left-grid-inner" style="padding-left:35px">
+                      <div class="a-fixed-left-grid-col a-col-left" style="width:35px;margin-left:-35px;float:left;">
+                      </div>
+                      <div class="a-fixed-left-grid-col a-col-right" style="padding-left:0%;float:left;">
+                        <div class="a-column a-span3">
+                          <h3>Tax information</h3>
+                        </div>
+                        <div class="a-column a-span9 loading-img-text js-hide a-span-last">
+                          <img alt="" src="https://images-na.ssl-images-amazon.com/images/G/01/amazonui/loading/loading-1x._CB485947033_.gif">
+                          <span class="aok-inline-block a-spacing-top-micro loading-text">Setting your tax ID...</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+
+
+            <script type="text/javascript">
+              P.when("client-side-metrics").execute(function(csm) {
+                csm.finishWidgetTiming('taxid');
+              });
+            </script>
+
+
+
+
+            <script type="text/javascript">
+              P.when("client-side-metrics").execute(function(csm) {
+                csm.setMarkerForWidget('bb', 'giftoptions');
+              });
+            </script>
+
+            <div class="a-row a-spacing-">
+
+              <div id="giftoptions" data-step-index="" class="a-row collapsed cacheable-spp-panel spp-panel celwidget" data-csa-c-id="wg442z-fy2ch5-sehwex-3g5m55" data-cel-widget="giftoptions">
+                <div class="a-row js-hide shrink-placeholder">
+                  <hr class="a-divider-normal">
+
+                  <div class="a-fixed-left-grid a-spacing-small">
+                    <div class="a-fixed-left-grid-inner" style="padding-left:35px">
+                      <div class="a-fixed-left-grid-col a-col-left" style="width:35px;margin-left:-35px;float:left;">
+                      </div>
+                      <div class="a-fixed-left-grid-col a-col-right" style="padding-left:0%;float:left;">
+                        <div class="a-column a-span3">
+                          <h3>Gift options</h3>
+                        </div>
+                        <div class="a-column a-span9 loading-img-text js-hide a-span-last">
+                          <img alt="" src="https://images-na.ssl-images-amazon.com/images/G/01/amazonui/loading/loading-1x._CB485947033_.gif">
+                          <span class="aok-inline-block a-spacing-top-micro loading-text">Loading gift information...</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+
+
+            <script type="text/javascript">
+              P.when("client-side-metrics").execute(function(csm) {
+                csm.finishWidgetTiming('giftoptions');
+              });
+            </script>
+
+
+
+
+            <script type="text/javascript">
+              P.when("client-side-metrics").execute(function(csm) {
+                csm.setMarkerForWidget('bb', 'payment');
+              });
+            </script>
+
+            <div class="a-row a-spacing-small">
+
+              <div id="payment" data-step-index="2" class="a-row collapsed cacheable-spp-panel spp-panel celwidget" data-csa-c-id="ksc11w-ca9euj-bjyrvh-kp56jk" data-cel-widget="payment">
+                <hr class="a-divider-normal">
+                <div class="a-row js-hide shrink-placeholder">
+
+                  <div class="a-fixed-left-grid a-spacing-">
+                    <div class="a-fixed-left-grid-inner" style="padding-left:35px">
+                      <div class="a-fixed-left-grid-col a-col-left" style="width:35px;margin-left:-35px;float:left;">
+                        <h3>2</h3>
+                      </div>
+                      <div class="a-fixed-left-grid-col a-col-right" style="padding-left:0%;float:left;">
+                        <div class="a-column a-span3">
+                          <h3>Payment method</h3>
+                        </div>
+                        <div class="a-column a-span9 loading-img-text js-hide a-span-last">
+                          <img alt="" src="https://images-na.ssl-images-amazon.com/images/G/01/amazonui/loading/loading-1x._CB485947033_.gif">
+                          <span class="aok-inline-block a-spacing-top-micro loading-text">Loading your payment information...</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="pipelinedPageTitle" class="a-row aok-hidden">
+                  Amazon.com Checkout
+                </div>
+
+                <div class="a-fixed-left-grid panel-content">
+                  <div class="a-fixed-left-grid-inner" style="padding-left:35px">
+                    <div class="a-fixed-left-grid-col a-col-left" style="width:35px;margin-left:-35px;float:left;">
+                      <span class="a-declarative" data-action="page-transit-no-update-action" data-page-transit-no-update-action="{&quot;targetDeclarativeActionId&quot;:&quot;spp-payment-change-coll&quot;,&quot;fromPage&quot;:&quot;spp-revieworder&quot;,&quot;toPage&quot;:&quot;spp-payment&quot;,&quot;refTag&quot;:&quot;chk_pay_header_change_coll&quot;}">
+                        <h3 data-testid="" class="a-color-base clickable-heading expand-collapsed-panel-trigger">
+                          2
+                        </h3>
+                      </span>
+                    </div>
+
+                    <div class="a-fixed-left-grid-col a-col-right" style="padding-left:0%;float:left;">
+
+
+
+                      <div aria-label="Payment method" class="a-section" role="form">
+                        <div class="a-row">
+                          <div class="a-column a-span3">
+                            <span class="a-declarative" data-action="page-transit-no-update-action" data-page-transit-no-update-action="{&quot;targetDeclarativeActionId&quot;:&quot;spp-payment-change-coll&quot;}">
+                              <h3 data-testid="" class="a-color-base clickable-heading expand-collapsed-panel-trigger">
+                                Payment method
+                              </h3>
+                            </span>
+                          </div>
+
+                          <div data-testid="" class="a-column a-span7">
+                            <div id="payment-information" class="a-row">
+                              <div class="a-row">
+                                <div class="a-row a-spacing-micro">
+                                  <span data-field="cc name">
+                                    <img alt="Visa" src="https://images-na.ssl-images-amazon.com/images/G/01/checkout/payselect/card-logos-small/visa._CB485936331_.gif" data-cclogo="visa" data-testid="" id="credit-card-image"><span class="a-letter-space"></span>
+                                    <span id="credit-card-name" data-testid="" class="a-text-bold">
+                                      Visa
+                                    </span>
+                                  </span>
+                                  <span class="a-color-secondary">
+                                    ending in
+                                    <span data-field="tail" data-testid="">
+                                      5933
+                                    </span>
+                                  </span>
+                                </div>
+
+
+
+
+
+                              </div>
+
+
+
+
+
+
+
+
+
+
+                            </div>
+
+
+
+
+
+
+
+
+
+
+                            <div id="billing-address" data-testid="" class="a-row a-spacing-top-micro">
+                              <div class="a-row">
+                                <div class="a-fixed-right-grid">
+                                  <div class="a-fixed-right-grid-inner" style="padding-right:50px">
+                                    <div class="a-row single-line">
+
+                                      <span class="a-declarative" data-action="trigger-modal-dialog" data-trigger-modal-dialog="{}">
+                                        <a data-testid="" class="a-link-normal" href="#">
+                                          Billing address:
+                                        </a>
+                                        <span class="a-declarative" data-action="a-modal" data-a-modal="{&quot;name&quot;:&quot;select-billing-address&quot;,&quot;popoverLabel&quot;:&quot;Choose a billing address&quot;,&quot;header&quot;:&quot;Choose a billing address&quot;}">
+                                          <span data-returnfrom="billingpopover" data-returnto="spc" class="modal-parameters"></span>
+                                        </span>
+                                      </span>
+
+                                      <div class="a-popover-preload" id="a-popover-select-billing-address">
+                                        <div id="select-billing-address-popover" class="a-section">
+
+                                        </div>
+                                      </div>
+
+                                      <span data-testid="" class="single-address">
+                                        Gregory A Mace, 1804 E REPUBLICAN ST APT 1, SEATTLE, WA, 98112-4603 United States
+                                      </span>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+
+
+
+
+                            <div class="a-row a-spacing-small"></div>
+
+
+
+
+                            <div class="a-row">
+
+                              <div data-testid="" aria-live="polite" data-a-expander-name="redeem-gc-expander" class="a-row a-expander-container a-expander-inline-container">
+                                <a href="javascript:void(0)" data-action="a-expander-toggle" class="a-expander-header a-declarative a-expander-inline-header no-link a-link-expander" data-a-expander-toggle="{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;&quot;, &quot;collapse_prompt&quot;:&quot;&quot;}"><i
+                                    class="a-icon a-icon-collapse"></i><span class="a-expander-prompt">
+                                    <label for="spc-gcpromoinput" class="a-form-label">
+                                      Add a gift card or promotion code or voucher
+                                    </label>
+                                  </span></a>
+                                <div aria-expanded="true" class="a-expander-content a-expander-inline-content a-expander-inner">
+                                  <div class="a-row">
+
+                                    <input type="text" id="spc-gcpromoinput" placeholder="Enter code" name="claimCode" class="a-input-text a-width-medium" data-testid=""><span class="a-letter-space"></span>
+                                    <input type="hidden" name="" id="spc-usePromoOnly">
+                                    <span class="a-declarative" data-action="gc-element" data-gc-element="{&quot;click&quot;:[&quot;actionAddGiftPromotion&quot;]}">
+                                      <span id="gcApplyButtonId" class="a-button a-button-base"><span class="a-button-inner"><input data-testid="" class="a-button-input" type="submit" aria-labelledby="gcApplyButtonId-announce"><span id="gcApplyButtonId-announce"
+                                            class="a-button-text" aria-hidden="true">
+                                            Apply
+                                          </span></span></span>
+                                    </span>
+
+
+                                    <div id="gc-promo-success" class="a-row hidden">
+                                      <div class="a-box a-alert-inline a-alert-inline-success">
+                                        <div class="a-box-inner a-alert-container"><i class="a-icon a-icon-alert"></i>
+                                          <div class="a-alert-content">
+                                            <span id="gc-success" data-testid="" class="hidden">
+                                              You successfully redeemed your claim code.
+                                            </span>
+                                            <span id="promo-success" data-testid="" class="hidden">
+                                              You successfully redeemed your promotional code.
+                                            </span>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+
+
+                                    <div id="gc-error" data-testid="" class="a-row a-spacing-top-mini hidden">
+                                      <div class="a-box a-alert-inline a-alert-inline-error" aria-live="assertive" role="alert">
+                                        <div class="a-box-inner a-alert-container"><i class="a-icon a-icon-alert"></i>
+                                          <div class="a-alert-content">
+                                            <p id="addGiftCardOrPromo_Unknown" class="hidden">
+                                              Sorry, there was a problem saving your gift card or promotional code. Please enter it again or try using another form of payment.
+                                            </p>
+                                            <p id="addGiftCardOrPromo_NoCode" class="hidden">
+                                              A gift card or promotional code is required.
+                                            </p>
+                                            <p id="addPromo_InvalidForPurchase" class="hidden">
+                                              The promotional code you entered cannot be applied to your purchase.
+                                            </p>
+                                            <p id="addPromo_BadCode" class="hidden">
+                                              The promotional code you entered is not valid.
+                                            </p>
+                                            <p id="addPromo_ExpiredCode" class="hidden">
+                                              The promotional code you entered has expired.
+                                            </p>
+                                            <p id="addPromo_InvalidForOrgUnit" class="hidden">
+
+                                            </p>
+                                            <p id="addPromo_OfferNotYetBegun" class="hidden">
+                                              The promotional code you entered is for an offer that has not yet begun.
+                                            </p>
+                                            <p id="addPromo_AlreadyRedeemed" class="hidden">
+                                              This gift card or promotional code has already been applied to your account balance.
+                                            </p>
+                                            <p id="addGiftCard_AlreadyRedeemedByAnotherAccount" class="hidden">
+                                              The gift card code you entered has already been redeemed.
+                                            </p>
+                                            <p id="addGiftCard_AlreadyRedeemedByThisAccount" class="hidden">
+                                              The gift card code you entered has already been applied to your account.
+                                            </p>
+                                            <p id="addGiftCard_BadCode" class="hidden">
+                                              The gift card code you entered is not valid.
+                                            </p>
+                                            <p id="addGiftCard_ExpiredCode" class="hidden">
+                                              The gift card code you entered has expired.
+                                            </p>
+                                            <p id="addGiftCard_Cancelled" class="hidden">
+                                              There was a problem redeeming this gift card in checkout. To redeem it, please go to: amazon.com/gc/redeem
+                                            </p>
+                                            <p id="addGiftCard_WrongOrgUnit" class="hidden">
+                                              The gift card code you entered was issued by one of our international sites and is not valid for this site.
+                                            </p>
+                                            <p id="addGiftCard_ServiceDown" class="hidden">
+                                              Sorry, there was a problem processing your request. Please try again in a few hours, or continue your order without applying your gift card code.
+                                            </p>
+                                            <p id="addGiftCard_Disabled" class="hidden">
+                                              Gift Cards cannot be used to make purchases on a Shared Pay Group.
+                                            </p>
+                                            <p id="addGiftCard_Teen_Disabled" class="hidden">
+                                              Gift card is disabled for teens
+                                            </p>
+                                            <p id="addGiftCard_PayAgent_Disabled" class="hidden">
+
+                                            </p>
+                                            <p id="addGiftCard_OTP_Required" class="hidden">
+                                              There was a problem redeeming this gift card in checkout. To redeem it, please go to: amazon.com/gc/redeem
+                                            </p>
+                                            <p id="addGiftCard_SEVIS_Decline" class="hidden">
+                                              Please <a class="a-link-normal" target="_blank" title="Contact Customer Service" href="/gp/help/contact-us/pay-and-gc.html">contact customer service</a> for assistance with the error code "RWQ".
+
+
+                                            </p>
+                                            <p id="addGiftCard_OCRAH_Decline" class="hidden">
+                                              Please contact the gift card distributor at 1-800-627-5267 between 9:00am and 10:00pm ET.
+                                            </p>
+                                            <p id="addGiftCard_DEFAULT_Message" class="hidden">
+                                              Your account is no longer able to claim Amazon Gift Cards, due to continued violation of our gift card terms and conditions. If you believe you have received this message in error, please reach out to <a
+                                                class="a-link-normal" target="_blank" title="gc-cx-feedback@amazon.com" href="mailto:gc-cx-feedback@amazon.com">gc-cx-feedback@amazon.com</a>
+                                            </p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+
+                                    <div id="gc-ineligible" class="a-row hidden">
+                                      <div class="a-box a-alert-inline a-alert-inline-info">
+                                        <div class="a-box-inner a-alert-container"><i class="a-icon a-icon-alert"></i>
+                                          <div class="a-alert-content">
+                                            <p id="gc-success" class="hidden">
+                                              Your gift card has been applied to your account balance but is not eligible for this purchase.<span class="a-letter-space"></span><a target="AmazonHelp" class="" href="/gp/help/customer/display.html/ref=ox_paypage_cannot_use_gc?ie=UTF8&amp;nodeId=201116890#">Learn
+                                                more</a>
+                                            </p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+
+                                  </div>
+                                </div>
+                              </div>
+
+                            </div>
+
+
+
+
+
+
+
+
+
+
+                          </div>
+
+                          <div class="a-column a-span2 a-text-right a-span-last">
+
+                            <span class="a-declarative" data-action="page-transit-no-update-action" data-page-transit-no-update-action="{&quot;fromPage&quot;:&quot;spp-revieworder&quot;,&quot;toPage&quot;:&quot;spp-payment&quot;,&quot;refTag&quot;:&quot;chk_pay_change_coll&quot;}"
+                              id="spp-payment-change-coll">
+                              <a id="payChangeButtonId" data-from-page="spp-revieworder" data-keep-cached-pages-data="1" data-max-prefetches="1" data-shrink-panel="payment" data-to-page="spp-payment" aria-label="Change payment method: Visa ending in 5933, "
+                                class="a-link-normal expand-panel-button expand-collapsed-panel-trigger checkout-pipeline-pref-link" href="/gp/buy/shared/handlers/pipeline-dispatch.html/ref=chk_pay_change_coll?ie=UTF8&amp;fromPage=spp-revieworder&amp;page=spp-payment">
+                                Change<span class="a-letter-space"></span><span class="a-letter-space"></span>
+                              </a>
+                            </span>
+                          </div>
+                        </div>
+                      </div>
+
+
+
+
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+
+            <script type="text/javascript">
+              P.when("client-side-metrics").execute(function(csm) {
+                csm.finishWidgetTiming('payment');
+              });
+            </script>
+
+
+
+
+            <script type="text/javascript">
+              P.when("client-side-metrics").execute(function(csm) {
+                csm.setMarkerForWidget('bb', 'kycxborder');
+              });
+            </script>
+
+            <div class="a-row a-spacing-">
+
+              <div id="kycxborder" data-step-index="" class="a-row collapsed cacheable-spp-panel spp-panel celwidget" data-csa-c-id="jsf9j1-p2x71b-y227kg-2wg3vw" data-cel-widget="kycxborder">
+                <div class="a-row js-hide shrink-placeholder">
+                  <hr class="a-divider-normal">
+
+                  <div class="a-fixed-left-grid a-spacing-small">
+                    <div class="a-fixed-left-grid-inner" style="padding-left:35px">
+                      <div class="a-fixed-left-grid-col a-col-left" style="width:35px;margin-left:-35px;float:left;">
+                      </div>
+                      <div class="a-fixed-left-grid-col a-col-right" style="padding-left:0%;float:left;">
+                        <div class="a-column a-span3">
+                          <h3>Add ID</h3>
+                        </div>
+                        <div class="a-column a-span9 loading-img-text js-hide a-span-last">
+                          <img alt="" src="https://images-na.ssl-images-amazon.com/images/G/01/amazonui/loading/loading-1x._CB485947033_.gif">
+                          <span class="aok-inline-block a-spacing-top-micro loading-text">Saving ID information...</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+
+
+            <script type="text/javascript">
+              P.when("client-side-metrics").execute(function(csm) {
+                csm.finishWidgetTiming('kycxborder');
+              });
+            </script>
+
+
+
+
+            <script type="text/javascript">
+              P.when("client-side-metrics").execute(function(csm) {
+                csm.setMarkerForWidget('bb', 'prime');
+              });
+            </script>
+
+            <div class="a-row a-spacing-">
+
+              <div id="prime" data-step-index="" class="a-row collapsed cacheable-spp-panel spp-panel celwidget" data-csa-c-id="7ucfrt-xhyyoy-cta8wl-jlafj3" data-cel-widget="prime">
+                <div class="a-row js-hide shrink-placeholder">
+                  <hr class="a-divider-normal">
+
+                  <div class="a-fixed-left-grid a-spacing-small">
+                    <div class="a-fixed-left-grid-inner" style="padding-left:35px">
+                      <div class="a-fixed-left-grid-col a-col-left" style="width:35px;margin-left:-35px;float:left;">
+                      </div>
+                      <div class="a-fixed-left-grid-col a-col-right" style="padding-left:0%;float:left;">
+                        <div class="a-column a-span3">
+                          <h3>Prime options</h3>
+                        </div>
+                        <div class="a-column a-span9 loading-img-text js-hide a-span-last">
+                          <img alt="" src="https://images-na.ssl-images-amazon.com/images/G/01/amazonui/loading/loading-1x._CB485947033_.gif">
+                          <span class="aok-inline-block a-spacing-top-micro loading-text">Saving your settings...</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+
+
+            <script type="text/javascript">
+              P.when("client-side-metrics").execute(function(csm) {
+                csm.finishWidgetTiming('prime');
+              });
+            </script>
+
+
+
+
+            <script type="text/javascript">
+              P.when("client-side-metrics").execute(function(csm) {
+                csm.setMarkerForWidget('bb', 'revieworder');
+              });
+            </script>
+
+            <div class="a-row a-spacing-small">
+
+              <div id="revieworder" data-step-index="3" class="a-row expanded cacheable-spp-panel spp-panel celwidget" data-csa-c-id="pwhdzi-8r464g-b9jv12-dq4d8s" data-cel-widget="revieworder">
+                <hr class="a-divider-normal">
+                <div class="a-row js-hide shrink-placeholder">
+
+                  <div class="a-fixed-left-grid a-spacing-">
+                    <div class="a-fixed-left-grid-inner" style="padding-left:35px">
+                      <div class="a-fixed-left-grid-col a-col-left" style="width:35px;margin-left:-35px;float:left;">
+                        <h3>3</h3>
+                      </div>
+                      <div class="a-fixed-left-grid-col a-col-right" style="padding-left:0%;float:left;">
+                        <div class="a-column a-span3">
+                          <h3>Items and shipping</h3>
+                        </div>
+                        <div class="a-column a-span9 loading-img-text js-hide a-span-last">
+                          <img alt="" src="https://images-na.ssl-images-amazon.com/images/G/01/amazonui/loading/loading-1x._CB485947033_.gif">
+                          <span class="aok-inline-block a-spacing-top-micro loading-text"></span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="pipelinedPageTitle" class="a-row aok-hidden">
+                  Amazon.com Checkout
+                </div>
+
+                <div class="a-fixed-left-grid panel-content">
+                  <div class="a-fixed-left-grid-inner" style="padding-left:35px">
+                    <div class="a-fixed-left-grid-col a-col-left" style="width:35px;margin-left:-35px;float:left;">
+                      <h3 class="a-color-base">
+                        3
+                      </h3>
+                    </div>
+
+                    <div class="a-fixed-left-grid-col a-col-right" style="padding-left:0%;float:left;">
+
+
+
+                      <noscript>
+                        <style type="text/css">
+                          .prime-auto-popover-enabled {
+                            display: inline;
+                          }
+                        </style>
+                      </noscript>
+
+
+
+                      <div aria-label="Review items and shipping" class="a-section" role="form">
+                        <div id="spc-desktop" class="a-row checkout spc desktop locale-us spc-desktop">
+                          <div class="a-row a-spacing-small">
+                            <h3 data-testid="" class="a-color-base">
+                              Review items and shipping
+                            </h3>
+                          </div>
+
+
+                          <form id="spc-form" name="spc" method="post" action="/gp/buy/spc/handlers/static-submit-decoupled.html/ref=ox_spc_place_order?ie=UTF8&amp;hasWorkingJavascript=" aria-label="Review items and shipping" class="a-spacing-none">
+
+                            <div id="purchase-level-messages" class="a-box-group a-spacing-large">
+
+                              <div class="a-box a-alert a-alert-warning pallet-delivery-setting-error-message aok-hidden a-spacing-large">
+                                <div class="a-box-inner a-alert-container"><i class="a-icon a-icon-alert"></i>
+                                  <div class="a-alert-content">
+                                    <div data-messageid="palletDeliverySettingErrorMessage">
+                                      <span>
+                                        Sorry, we are not able to update your pallet preference at this time. You may still complete your order.
+                                      </span>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+
+                              <input type="hidden" name="submitFromSPC" value="1">
+                            </div>
+
+                            <div class="a-popover-preload" id="a-popover-gold-box-modal">
+                              <div class="a-row a-spacing-small">The Lightning Deal discount has been removed from your order. Return to your Cart, or visit the Deals page to see if this Lightning Deal discount is still available.</div>
+                              <div class="a-row">
+                                <div class="a-column a-span12 a-text-right">
+                                  <span class="a-button a-spacing-none a-button-primary" id="a-autoid-4"><span class="a-button-inner"><a href="https://www.amazon.com/gp/cart/view.html/ref=ox_spc_deal_expired" class="a-button-text" role="button" id="a-autoid-4-announce">
+                                        Return to Cart
+                                      </a></span></span>
+                                  <span class="a-button a-spacing-none a-button-base" id="a-autoid-5"><span class="a-button-inner"><a href="http://www.amazon.com/gp/goldbox/ref=ox_spc_deal_expired" class="a-button-text" role="button" id="a-autoid-5-announce">
+                                        View deals
+                                      </a></span></span>
+                                </div>
+                              </div>
+                            </div>
+
+                            <span class="a-declarative" data-action="trigger-modal-dialog" data-trigger-modal-dialog="{}">
+                              <a id="gold-box-modal-launcher" class="a-link-normal hidden" href="#"></a>
+                              <span class="a-declarative" data-action="a-modal" data-a-modal="{&quot;width&quot;:&quot;500&quot;,&quot;closeButton&quot;:&quot;false&quot;,&quot;name&quot;:&quot;gold-box-modal&quot;,&quot;popoverLabel&quot;:&quot;Lightning Deal has expired&quot;,&quot;header&quot;:&quot;Lightning Deal has expired&quot;}"></span>
+                            </span>
+
+                            <div id="goldbox-countdown" class="a-row a-spacing-base hidden">
+                              <div class="a-box a-alert a-alert-warning">
+                                <div class="a-box-inner a-alert-container">
+                                  <h4 class="a-alert-heading">Place your order within <span class="a-color-success" data-timefield="minute"></span>:<span class="a-color-success" data-timefield="second"></span> to receive the Deal discount.</h4><i
+                                    class="a-icon a-icon-alert"></i>
+                                  <div class="a-alert-content"></div>
+                                </div>
+                              </div>
+                            </div>
+
+
+
+
+
+
+
+
+
+
+                            <div id="spc-orders" class="a-row">
+                              <div data-testid="" class="a-box a-spacing-">
+                                <div class="a-box-inner">
+
+                                  <div data-testid="" class="a-row a-spacing-mini prime-ad-banner-content">
+
+                                    <style type="text/css">
+                                      .a-row .a-column #no-rush-promotion-ad-image-box {
+                                        width: 110px;
+                                        height: 70px;
+                                        float: left;
+                                        background-position: 10px;
+                                      }
+
+                                      .no-rush-promotion-ad-image-NoRushTiered100October2020 {
+                                        background: url("https://m.media-amazon.com/images/G/01/dex/2020/Prime/NR/DEX_2020_NoRush_SPC_0318_Search_SignPost_4_80x80._CB1584640944_.jpg") no-repeat;
+                                      }
+
+                                      .no-rush-promotion-message {
+                                        height: 100%;
+                                        padding-top: 10px;
+                                      }
+
+                                      .no-rush-promotion-message-paragraph-block {
+                                        margin-left: 120px;
+                                      }
+                                    </style>
+                                    <div class="a-row a-spacing-small">
+                                      <div class="a-column a-span12 a-alert a-alert-info">
+                                        <div id="no-rush-promotion-ad-image-box" class="no-rush-promotion-ad-image-NoRushTiered100October2020">
+                                        </div>
+                                        <div id="spc-imb" class="no-rush-promotion-message">
+                                          <h5>Get a $1 digital reward with FREE No-Rush Shipping.</h5>
+                                          Select No-Rush Shipping below to receive a reward towards e-books, digital movies, and music.
+                                        </div>
+                                      </div>
+                                    </div>
+
+                                  </div>
+
+
+                                  <div data-orderid="0" data-testid="order-box-0" class="a-row shipment">
+                                    <div class="a-row">
+
+                                      <div class="a-row shipping-group">
+                                        <div data-testid="" class="a-row">
+
+                                          <div class="a-row a-color-success a-size-medium">
+                                            <span data-promisetype="delivery" class="a-color- a-text-bold">Delivery date:</span>
+                                            <span class="a-color-success a-text-bold"><span data-field="promisemonth">Nov.</span>&nbsp;<span data-field="promiseday">21</span>,&nbsp;<span data-field="promiseyear">2020</span>
+                                            </span>
+                                            <span class="a-size-base a-color-secondary fasttrack-span hidden a-text-normal" style="display: inline;">
+                                              <span class="fasttrackexpired hidden" style="display: none;">
+                                                We're sorry. Today's deadline for guaranteed accelerated delivery has expired. Please reselect your shipping speed to see updated shipping information.
+
+                                                (<a target="AmazonHelp" class="" href="/gp/help/customer/display.html/ref=chk_ship_ft_details_pri?ie=UTF8&amp;nodeId=3510241">Details</a>)
+                                              </span>
+                                              <span class="fasttrackavailable fasttrackcountdown hidden a-text-normal" style="display: inline;">
+                                                If you order in the next <span data-field="fasttrackcountdown">3 hours and 16 minutes</span>
+                                                (<a target="AmazonHelp" class="" href="/gp/help/customer/display.html/ref=chk_ship_ft_details_pri?ie=UTF8&amp;nodeId=3510241">Details</a>)
+                                              </span>
+
+                                              <div class="a-popover-preload" id="a-popover-">
+                                                <div id="fast-track-help-content-a-0" class="a-row help-content"></div>
+                                              </div>
+                                              <div class="a-popover-preload" id="a-popover-">
+                                                <div id="fast-track-help-content-b-0" class="a-row help-content"></div>
+                                              </div>
+
+                                              <input type="hidden" name="fasttrackExpiration" value="11909">
+                                              <input type="hidden" name="countdownThreshold" value="86400">
+                                              <input type="hidden" name="showSimplifiedCountdown" value="0">
+                                              <input type="hidden" name="countdownId" value="countdownId-0">
+                                            </span>
+
+                                          </div>
+
+                                        </div>
+
+                                        <div class="a-row a-spacing-small">
+
+                                          <span class="a-size-base a-color-secondary">
+                                            Items shipped from
+                                            <span data-field="shipsfrom" data-testid="">Amazon.com</span>
+                                          </span>
+
+                                        </div>
+
+                                        <div class="a-row">
+                                          <div class="a-column a-span6">
+                                            <div data-testid="" class="a-row">
+
+                                              <div class="a-row">
+
+                                                <div class="a-row a-spacing-none item-row">
+                                                  <div class="a-fixed-left-grid">
+                                                    <div class="a-fixed-left-grid-inner" style="padding-left:96px">
+                                                      <div class="a-fixed-left-grid-col a-col-left" style="width:96px;margin-left:-96px;float:left;">
+
+                                                        <img alt="AcuRite 01512 Wireless Home Station for Indoor and Outdoor with 5-in-1 Weather Sensor: Temperature, Humidity, Wind Speed, Direction, and Rainfall, Full Color" src="https://images-na.ssl-images-amazon.com/images/I/81kSvlKGtFL._AA150_.jpg"
+                                                          data-testid="" height="90" width="90" data-a-hires="https://images-na.ssl-images-amazon.com/images/I/81kSvlKGtFL._AA150_.jpg">
+                                                      </div>
+
+                                                      <div class="a-fixed-left-grid-col item-details-right-column a-col-right" style="padding-left:0%;float:left;">
+
+                                                        <div class="a-row breakword">
+                                                          <span data-testid="" class="a-text-bold">
+                                                            AcuRite 01512 Wireless Home Station for Indoor and Outdoor with 5-in-1 Weather Sensor: Temperature, Humidity, Wind Speed, Direction, and Rainfall, Full Color
+                                                          </span>
+                                                        </div>
+
+                                                        <div class="a-row">
+
+                                                          <span>
+                                                            <span class="a-color-price">
+                                                              <span data-testid="" class="a-text-bold" dir="ltr">
+                                                                $129.99
+                                                              </span>
+                                                            </span>
+                                                          </span>
+
+                                                          <span>
+                                                            <i class="a-icon a-icon-prime" role="img" aria-label="Free Shipping for Prime Members"></i>
+                                                          </span>
+
+                                                        </div>
+
+                                                        <div class="a-row">
+
+                                                          <div data-entity-id="A01986043U5SUQ25W1BEZ:" data-testid="" class="a-row lineitem">
+                                                            <div class="a-column a-span2">
+
+                                                              <span class="a-declarative" data-action="order-summary-get-quantity" data-order-summary-get-quantity="{}">
+                                                                <span class="a-declarative" data-action="order-summary-update-quantity" data-order-summary-update-quantity="{}">
+                                                                  <span class="a-dropdown-container"><label for="quantity.A01986043U5SUQ25W1BEZ:" class="a-native-dropdown quantity-dropdown-select js-select">Qty:</label><select name="quantity.A01986043U5SUQ25W1BEZ:"
+                                                                      autocomplete="off" data-a-native-class="quantity-dropdown-select js-select" id="quantity.A01986043U5SUQ25W1BEZ:" tabindex="0" class="a-native-dropdown quantity-dropdown-select js-select">
+                                                                      <option class="a-prompt" value="">1</option>
+
+                                                                      <optgroup>
+                                                                        <option value="1" selected="">
+                                                                          1
+                                                                        </option>
+                                                                        <option value="2">
+                                                                          2
+                                                                        </option>
+                                                                        <option value="3">
+                                                                          3
+                                                                        </option>
+                                                                        <option value="4">
+                                                                          4
+                                                                        </option>
+                                                                        <option value="5">
+                                                                          5
+                                                                        </option>
+                                                                        <option value="6">
+                                                                          6
+                                                                        </option>
+                                                                        <option value="7">
+                                                                          7
+                                                                        </option>
+                                                                        <option value="8">
+                                                                          8
+                                                                        </option>
+                                                                        <option value="9">
+                                                                          9
+                                                                        </option>
+                                                                        <option value="10">10+</option>
+                                                                      </optgroup>
+
+                                                                      <optgroup>
+                                                                        <option value="Delete">Delete</option>
+                                                                      </optgroup>
+                                                                    </select><span tabindex="-1" data-testid="" data-a-class="no-js-hide quantity-dropdown" class="a-button a-button-dropdown a-button-small no-js-hide quantity-dropdown" aria-disabled="true"
+                                                                      id="a-autoid-6" aria-hidden="true" style="min-width: 0.0833333%;"><span class="a-button-inner"><span class="a-button-text a-declarative" data-action="a-dropdown-button" role="button"
+                                                                          aria-hidden="true" id="a-autoid-6-announce"><span class="a-dropdown-label">Qty:</span><span class="a-dropdown-prompt">
+                                                                            1
+                                                                          </span></span><i class="a-icon a-icon-dropdown"></i></span></span></span>
+                                                                </span>
+                                                              </span>
+
+
+                                                              <div class="a-row quantity-text-field no-js-hide hidden">
+                                                                <span class="a-declarative" data-action="order-summary-handle-text-input order-summary-show-update-button" data-order-summary-handle-text-input="" order-summary-show-update-button="{}">
+                                                                  <input type="number" maxlength="3" value="1" name="quantity.A01986043U5SUQ25W1BEZ:" class="a-input-text a-form-disabled quantity-field quantity-input" data-current-quantity="1"
+                                                                    data-testid="" disabled="disabled">
+                                                                  <input type="hidden" name="" value="999" id="quantity-input-max-value">
+                                                                </span>
+
+                                                                <p class="a-text-center">
+                                                                  <span class="a-declarative" data-action="order-summary-update-quantity-text-field" data-order-summary-update-quantity-text-field="{}">
+                                                                    <a class="a-link-normal update-quantity-link hidden" href="#">Update</a>
+                                                                  </span>
+                                                                </p>
+                                                              </div>
+
+                                                              <div class="a-row a-text-center">
+                                                                <span class="a-button a-spacing-top-micro a-button-base a-button-small a-padding-none js-hide" id="a-autoid-7"><span class="a-button-inner"><input name="updateQuantity.A01986043U5SUQ25W1BEZ:"
+                                                                      class="a-button-input" type="submit" value="Update" aria-labelledby="a-autoid-7-announce"><span class="a-button-text" aria-hidden="true" id="a-autoid-7-announce"></span></span></span>
+                                                              </div>
+
+                                                            </div>
+                                                          </div>
+
+                                                          <div data-itemid="A01986043U5SUQ25W1BEZ:" class="a-row a-spacing-none a-spacing-top-mini update-quantity-error hidden">
+                                                            <div class="a-box a-alert-inline a-alert-inline-error" aria-live="assertive" role="alert">
+                                                              <div class="a-box-inner a-alert-container"><i class="a-icon a-icon-alert"></i>
+                                                                <div class="a-alert-content">
+                                                                  <span data-error-type="changeQuantity_quantityNotInRange" class="error-message hidden">
+                                                                    Please enter a quantity from 1 to 999.
+                                                                  </span>
+                                                                  <span data-error-type="changeQuantity_quantityRestricted" class="error-message hidden">
+                                                                    Sorry, this item is sold in limited quantities. We changed your quantity to the maximum possible.
+                                                                  </span>
+                                                                  <span data-error-type="changeQuantity_quantityExceedsAvailability" class="error-message hidden">
+                                                                    Sorry, this item has limited quantities available. We changed your quantity to the maximum available.
+                                                                  </span>
+                                                                  <span data-error-type="changeQuantity_quantityNumberWrong" class="error-message hidden">
+                                                                    Please input the correct quantity base on this Product Bundle item.
+                                                                  </span>
+                                                                  <span data-error-type="changeQuantity_quantityBusinessLevelRestricted" class="error-message hidden">
+                                                                    We're sorry. This item has limited purchase quantity and your business has reached it. We have changed your purchase quantity to the maximum allowable.
+                                                                  </span>
+                                                                  <span data-error-type="noChangeQuantity_quantityExceedsAvailability" class="error-message hidden">
+                                                                    Sorry, the quantity you requested is not available right now. We did not update your quantity.
+                                                                  </span>
+                                                                </div>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+
+                                                        </div>
+
+                                                        <div class="a-row">
+                                                          <span data-testid="" class="a-size-small a-color-secondary">
+                                                            Sold by:<span class="a-letter-space"></span>Amazon.com Services LLC
+                                                          </span>
+                                                        </div>
+
+
+<style>
+  .prop65HideIcon .a-icon {
+    display: none
+  }
+</style>
+
+
+
+
+
+
+
+
+
+
+                                                        <div class="a-row">
+
+
+
+
+                                                          <span class="a-declarative" data-action="a-modal" data-a-modal="{&quot;name&quot;:&quot;changeGiftOptionsPopover0&quot;,&quot;header&quot;:&quot;Choose your gift options&quot;}">
+
+
+
+
+                                                            <span class="a-button a-button-base a-button-small" id="a-autoid-8"><span class="a-button-inner"><input class="a-button-input" type="submit" aria-labelledby="a-autoid-8-announce"><span
+                                                                  class="a-button-text" aria-hidden="true" id="a-autoid-8-announce">
+
+                                                                  <img alt="" src="https://m.media-amazon.com/images/G/01/x-locale/gifts/gift_btn._CB485935626_.png" class="chewbacca-gift-options-icon">
+                                                                  Add gift options
+                                                                </span></span></span>
+
+
+                                                          </span>
+
+
+
+
+                                                          <div class="a-popover-preload" id="a-popover-gift-A01986043U5SUQ25W1BEZ-">
+                                                            <div data-testid="" class="a-section popover-gift checkout">
+                                                              <div data-testid="" class="a-row popover-content-main">
+                                                                <ol class="a-ordered-list a-vertical a-nostyle content-container">
+
+                                                                  <li class="a-spacing-base popover-gift-top"><span class="a-list-item">
+                                                                      <div class="a-row gift-item-title">
+                                                                        <span class="gift-clip-text a-text-bold"></span>
+                                                                      </div>
+
+                                                                      <div id="gift-autorip-unavailable-msg" class="a-box a-alert-inline a-alert-inline-info hidden">
+                                                                        <div class="a-box-inner a-alert-container"><i class="a-icon a-icon-alert"></i>
+                                                                          <div class="a-alert-content">
+                                                                            Autorip is not available for gift orders.
+                                                                          </div>
+                                                                        </div>
+                                                                      </div>
+
+                                                                      <div class="a-row gift-error-box hidden">
+                                                                        <span class="gift-popover-notification-image"></span>
+                                                                        <div class="a-row gift-popover-notification-message">
+                                                                          <h6 class="error-headline">
+                                                                            Important message
+                                                                          </h6>
+                                                                          Sorry, gift messages have a limit of <span class="gift-error-box-char-limit-error"></span>-characters or <span class="gift-eror-box-line-limit-error"></span>-lines. Please
+                                                                          shorten your message.
+                                                                        </div>
+                                                                      </div>
+                                                                    </span></li>
+
+
+                                                                  <li class="a-spacing-medium popover-gift-center"><span class="a-list-item">
+                                                                      <div class="a-row">
+
+                                                                        <div class="a-column a-span5 left-pane gift-message-edit">
+                                                                          <div class="a-checkbox hidden hide-prices-checkbox"><label><input type="checkbox" name="" value=""><i class="a-icon a-icon-checkbox"></i><span class="a-label a-checkbox-label"></span></label></div>
+                                                                          <div class="a-row popover-checkbox include-gift-receipt">
+                                                                            <span class="a-declarative" data-action="gift-popover-element" data-gift-popover-element="{&quot;onChange&quot;:[&quot;enforceHidePriceParity&quot;,&quot;toggleNoReceiptWarning&quot;]}">
+                                                                              <div data-testid="" class="a-checkbox multi-line-checkbox include-gift-receipt-checkbox"><label><input type="checkbox" name="" value="1"><i class="a-icon a-icon-checkbox"></i><span
+                                                                                    class="a-label a-checkbox-label">
+                                                                                    <span class="a-size-medium">Gift Receipt</span>
+                                                                                    <br>
+                                                                                    <span class="a-color-secondary">Prices will be hidden on the receipt.</span>
+                                                                                  </span></label></div>
+                                                                            </span>
+                                                                            <div class="a-row a-spacing-top-mini hidden popover-gift-warning no-receipt-warning">
+                                                                              <span>This shipment will not include any receipt and your message will not be saved.</span>
+                                                                            </div>
+                                                                          </div>
+
+                                                                          <div class="a-row popover-checkbox mfn-hide-prices hidden">
+                                                                            <span class="a-declarative" data-action="gift-popover-element" data-gift-popover-element="{&quot;onChange&quot;:[&quot;enforceHidePriceParity&quot;]}">
+                                                                              <div class="a-checkbox multi-line-checkbox mfn-hide-prices-checkbox"><label><input type="checkbox" name="" value="1"><i class="a-icon a-icon-checkbox"></i><span class="a-label a-checkbox-label">
+                                                                                    <span class="a-size-medium">Hide prices on the packing slips</span>
+                                                                                    <br>
+                                                                                    <span class="a-color-secondary">Not all merchants are able to hide prices on packing slips.</span>
+                                                                                  </span></label></div>
+                                                                            </span>
+                                                                          </div>
+
+                                                                          <div class="a-row a-spacing-top-base a-size-mini popover-checkbox include-gift-message hidden">
+                                                                            <span class="a-declarative" data-action="gift-popover-element" data-gift-popover-element="{&quot;onChange&quot;:[&quot;enforceGiftReceiptParity&quot;,&quot;toggleEmptyMsgWarning&quot;]}">
+                                                                              <div data-testid="" class="a-checkbox multi-line-checkbox include-gift-message-checkbox"><label><input type="checkbox" name="" value="1"><i class="a-icon a-icon-checkbox"></i><span
+                                                                                    class="a-label a-checkbox-label">
+                                                                                    <span class="a-size-medium">Gift Message - Free</span>
+                                                                                  </span></label></div>
+                                                                            </span>
+                                                                          </div>
+
+                                                                          <div class="a-row a-spacing-top-base popover-gift-message-not-available hidden">
+                                                                            <span class="a-size-medium a-color-secondary">Gift-messaging is not available for this item.</span>
+                                                                          </div>
+
+                                                                          <div class="a-row a-spacing-top-base wrap-option popover-gift-fba-wrap">
+                                                                            <div class="a-row popover-checkbox fba-wrap-checkbox">
+                                                                              <span class="a-declarative" data-action="gift-popover-element" data-gift-popover-element="{&quot;onChange&quot;:[&quot;enforceGiftReceiptParity&quot;,&quot;toggleMessageBoxDisplay&quot;]}">
+                                                                                <div class="a-checkbox multi-line-checkbox amazon-gift-wrap"><label><input type="checkbox" name="" value="1"><i class="a-icon a-icon-checkbox"></i><span class="a-label a-checkbox-label">
+                                                                                      <span class="a-size-medium">
+                                                                                        Gift Bag -
+                                                                                        <span class="gift-wrap-price"></span>
+                                                                                      </span>
+                                                                                    </span></label></div>
+                                                                              </span>
+                                                                            </div>
+                                                                            <div class="a-row a-spacing-top-mini large-preview hidden">
+                                                                              <img alt="Gift Bag" src="https://images-na.ssl-images-amazon.com/images/G/01/x-locale/gifts/gift-bags-2016-10-27._CB485955429_._SX800_.jpg" height="140">
+                                                                            </div>
+                                                                          </div>
+
+
+                                                                          <div class="a-row a-spacing-top-base popover-gift-merchant-wrap wrap-option hidden">
+                                                                            <div class="a-row gift-wrap-title">
+                                                                              <span class="a-size-medium">Gift-wrap with:</span>
+                                                                            </div>
+
+                                                                            <div class="a-row popover-checkbox mfn-wrap-checkbox mfn-wrap-template hidden item-wrap-type">
+                                                                              <div class="a-row a-spacing-top-mini">
+                                                                                <span class="a-declarative" data-action="gift-popover-element" data-gift-popover-element="{&quot;onChange&quot;:[&quot;enforceGiftReceiptParity&quot;,&quot;toggleMessageBoxDisplay&quot;]}">
+                                                                                  <div data-a-input-name="mfn-gift-wrap" class="a-radio mfn-gift-wrap"><label><input type="radio" name="mfn-gift-wrap" value=""><i class="a-icon a-icon-radio"></i><span
+                                                                                        class="a-label a-radio-label">
+                                                                                        <span class="a-size-medium mfn-wrap-description fake-label"></span>
+                                                                                      </span></label></div>
+                                                                                </span>
+                                                                              </div>
+
+                                                                              <div class="a-fixed-left-grid inner-grid-left">
+                                                                                <div class="a-fixed-left-grid-inner" style="padding-left:18px">
+                                                                                  <div class="a-fixed-left-grid-col a-col-left" style="width:18px;margin-left:-18px;float:left;">
+                                                                                  </div>
+                                                                                  <div class="a-fixed-left-grid-col fake-label a-col-right" style="padding-left:0%;float:left;">
+                                                                                    <img alt="" src="https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/transparent-pixel._CB485935036_.gif" class="mfn-image hidden gift-wrap-thumb-img">
+                                                                                    <span class="a-color-price mfn-wrap-price a-radio-label a-text-bold"></span>
+                                                                                  </div>
+                                                                                </div>
+                                                                              </div>
+                                                                            </div>
+
+                                                                            <div class="a-row a-spacing-top-mini popover-checkbox mfn-wrap-checkbox item-wrap-type">
+                                                                              <span class="a-declarative" data-action="gift-popover-element" data-gift-popover-element="{&quot;onChange&quot;:[&quot;enforceGiftReceiptParity&quot;,&quot;toggleMessageBoxDisplay&quot;]}">
+                                                                                <div data-a-input-name="mfn-gift-wrap" class="a-radio mfn-wrap-none"><label><input type="radio" name="mfn-gift-wrap" value=""><i class="a-icon a-icon-radio"></i><span
+                                                                                      class="a-label a-radio-label">
+                                                                                      <span class="a-size-medium">Don't gift-wrap my item</span>
+                                                                                    </span></label></div>
+                                                                              </span>
+                                                                            </div>
+                                                                          </div>
+
+
+                                                                          <div class="a-row a-spacing-top-base popover-gift-no-wrap-available hidden">
+                                                                            <span class="a-size-medium a-color-secondary">Gift-wrap not available</span>
+                                                                          </div>
+
+                                                                        </div>
+
+
+                                                                        <div class="a-column a-span6 popover-gift-message a-span-last">
+
+                                                                          <span class="a-color-secondary gift-message-label a-text-bold">
+                                                                            Gift Message
+                                                                          </span>
+                                                                          <br>
+                                                                          <span class="a-color-secondary hidden gift-msg-on-card">Printed on a card attached to the gift.</span>
+                                                                          <span class="a-color-secondary hidden gift-msg-on-receipt">Printed on the gift receipt.</span>
+                                                                          <div class="a-row a-spacing-top-mini">
+
+                                                                            <div class="a-input-text-wrapper"><textarea placeholder="Add your message." name="gift-message-text" class="a-form-normal"></textarea></div>
+
+                                                                            <span class="gift-message-default-placeholder hidden">Add your message.</span>
+                                                                            <span class="gift-message-with-wrap-placeholder hidden">Your card will be blank.</span>
+
+                                                                            <span class="sample-gift-msg hidden">Enjoy your gift!</span>
+                                                                            <span class="sample-gift-msg-greeting hidden">Hi</span>
+                                                                            <span class="sample-gift-msg-from hidden">From </span>
+                                                                            <span class="gift-customer-name hidden">Susan Cathcart</span>
+
+                                                                            <div class="a-row a-spacing-top-mini a-size-small a-color-tertiary message-remaining-text a-text-right">
+                                                                              <!-- characters remaining -->
+                                                                              <span class="remainder-count remaining-char-single hidden">
+                                                                                <span class="chars-remaining"></span> character
+                                                                                <span class="remainder-comma">·</span>
+                                                                              </span>
+
+                                                                              <span class="remainder-count remaining-char-multiple hidden">
+                                                                                <span class="chars-remaining"></span> characters
+                                                                                <span class="remainder-comma">·</span>
+                                                                              </span>
+
+                                                                              <span class="a-color-price remainder-count remainder-count-over remaining-char-over-single hidden">
+                                                                                <span class="chars-remaining"></span> character over
+                                                                                <span class="remainder-comma">·</span>
+                                                                              </span>
+
+                                                                              <span class="a-color-price remainder-count remainder-count-over remaining-char-over-multiple hidden">
+                                                                                <span class="chars-remaining"></span> characters over
+                                                                                <span class="remainder-comma">·</span>
+                                                                              </span>
+
+                                                                              <!-- lines remaining -->
+                                                                              <span class="remainder-count remaining-line-single hidden">
+                                                                                <span class="lines-remaining"></span> line
+                                                                              </span>
+
+                                                                              <span class="remainder-count remaining-line-multiple hidden">
+                                                                                <span class="lines-remaining"></span> lines
+                                                                              </span>
+
+                                                                              <span class="a-color-price remainder-count remainder-count-over remaining-line-over-single hidden">
+                                                                                <span class="lines-remaining"></span> line over
+                                                                              </span>
+
+                                                                              <span class="a-color-price remainder-count remainder-count-over remaining-line-over-multiple hidden">
+                                                                                <span class="lines-remaining"></span> lines over
+                                                                              </span>
+                                                                            </div>
+
+                                                                            <div class="a-row a-spacing-top-mini popover-gift-warning no-message-warning hidden">
+                                                                              <span>Without a message your name will not be on the receipt.</span>
+                                                                            </div>
+                                                                          </div>
+
+                                                                        </div>
+
+                                                                      </div>
+                                                                    </span></li>
+
+
+                                                                  <li class="popover-gift-bottom a-text-right"><span class="a-list-item">
+                                                                      <span class="a-declarative" data-action="a-popover-close" data-a-popover-close="{}">
+                                                                        <span class="a-button a-spacing-mini a-button-base" id="a-autoid-9"><span class="a-button-inner"><input class="a-button-input" type="submit" aria-labelledby="a-autoid-9-announce"><span
+                                                                              class="a-button-text" aria-hidden="true" id="a-autoid-9-announce">
+                                                                              <span>Cancel</span>
+                                                                            </span></span></span>
+                                                                      </span>
+
+                                                                      <span class="a-button a-spacing-mini a-button-primary set-gift-options-button" id="a-autoid-10"><span class="a-button-inner"><input data-testid="" class="a-button-input" type="submit"
+                                                                            aria-labelledby="a-autoid-10-announce"><span class="a-button-text" aria-hidden="true" id="a-autoid-10-announce">
+                                                                            Save gift options and continue
+                                                                          </span></span></span>
+
+                                                                      <span class="a-declarative" data-action="a-tooltip-button-blocker" data-a-tooltip-button-blocker="{&quot;position&quot;:&quot;triggerLeft&quot;,&quot;name&quot;:&quot;button-blocker-gift-B00N1XCA9M&quot;}">
+                                                                        <span class="a-button a-button-disabled a-spacing-mini a-button-primary set-gift-options-button-disabled aok-hidden" id="a-autoid-11"><span class="a-button-inner"><input title="Save gift options and continue"
+                                                                              disabled="disabled" class="a-button-input" type="submit" aria-labelledby="a-autoid-11-announce"><span class="a-button-text" aria-hidden="true" id="a-autoid-11-announce">
+                                                                              <span class="gift-save-disabled">Save gift options and continue</span>
+                                                                            </span></span></span>
+                                                                      </span>
+
+                                                                      <span id="button-blocker-gift-B00N1XCA9M" class="current-blocker-content hidden"></span>
+                                                                      <span class="gift-char-limit-error hidden">There's a <span class="char-limit-error"></span>-character limit on this gift message. Please shorten your message.</span>
+                                                                      <span class="gift-line-limit-error hidden">There is a <span class="line-limit-error"></span>-line limit on this gift message. Please shorten your message.</span>
+                                                                    </span></li>
+
+                                                                </ol>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+
+
+
+
+
+
+
+
+
+
+                                                        </div>
+
+                                                        <div class="a-row concealment-widgets-desktop-spp">
+
+
+
+
+
+
+
+                                                          <div id="concealment-can-overwrap" data-line-item-id="concealment-0" data-testid="" class="a-section celwidget" data-csa-c-id="13zdn8-dy24os-djot7w-rjw3id" data-cel-widget="concealment-can-overwrap">
+                                                            <div class="a-row a-spacing-top-base">
+                                                              <span>
+                                                                <strong>Item arrives in packaging that shows what’s inside.</strong> To hide it, choose <strong>Ship in Amazon packaging.</strong>
+                                                              </span>
+                                                            </div>
+
+                                                            <div class="a-row a-spacing-top-small">
+
+
+
+                                                              <span class="a-declarative" data-action="a-modal" data-a-modal="{&quot;data&quot;:{&quot;itemId&quot;:&quot;miq://document:1.0/Ordering/amazon:1.0/LineItem:1.0/28a3bea6-e407-4814-9590-426d3680d9c5&quot;,&quot;ref&quot;:&quot;pkg_ckout_conceal_spp&quot;,&quot;quantity&quot;:1},&quot;name&quot;:&quot;concealment-0&quot;,&quot;header&quot;:&quot;Ship in Amazon packaging&quot;}">
+                                                                <span class="a-button a-button-base a-button-small concealment-popover-link" id="a-autoid-12"><span class="a-button-inner"><input data-testid="" class="a-button-input" type="submit"
+                                                                      aria-labelledby="a-autoid-12-announce"><span class="a-button-text" aria-hidden="true" id="a-autoid-12-announce">
+                                                                      Ship in Amazon packaging
+                                                                    </span></span></span>
+                                                              </span>
+                                                            </div>
+
+
+
+
+
+
+
+
+
+
+                                                            <div class="a-popover-preload" id="a-popover-concealment-0">
+                                                              <div data-testid="" class="a-row popover-concealment checkout">
+                                                                <div class="a-row popover-content-main">
+                                                                  <ol class="a-ordered-list a-vertical a-nostyle content-container">
+                                                                    <li class="popover-concealment-top"><span class="a-list-item">
+                                                                        <div class="a-row concealment-explanation">
+                                                                          <div class="a-column a-span12 a-text-left">
+                                                                            <span class="concealment-explanation-text a-text-bold">
+                                                                              Some items in your order will ship in their own box and will be visible when delivered.&nbsp; To cover this package for free, choose "Ship in Amazon packaging" for each
+                                                                              item listed below.
+                                                                            </span>
+                                                                          </div>
+                                                                        </div>
+                                                                        <hr aria-hidden="true" class="a-divider-normal">
+                                                                      </span></li>
+
+                                                                    <li class="popover-concealment-center"><span class="a-list-item">
+                                                                        <div class="a-row">
+
+                                                                          <div class="a-row concealment-options-header">
+                                                                            <span class="a-text-bold">
+                                                                              Ship in Amazon packaging
+                                                                            </span>
+                                                                          </div>
+
+                                                                          <div class="a-row popover-checkbox concealment-options">
+                                                                            <span class="a-declarative" data-action="concealment-popover-element" data-concealment-popover-element="{&quot;onchange&quot;:[&quot;enforceSelectorParity&quot;]}">
+                                                                              <div class="a-checkbox conceal-item-checkbox"><label><input type="checkbox" name="" value="1"><i class="a-icon a-icon-checkbox"></i><span class="a-label a-checkbox-label">
+                                                                                    <span class="concealment-item-title a-text-normal"></span>
+                                                                                  </span></label></div>
+                                                                            </span>
+                                                                          </div>
+
+                                                                          <input type="hidden" name="concealment-item-message" value="Ship in Amazon packaging selected">
+
+                                                                          <div class="a-row popover-concealment-visual-explanation">
+
+                                                                            <img alt="" src="https://m.media-amazon.com/images/G/01/green/checkout/sioc_boxes._CB485966615_.png" height="400">
+                                                                          </div>
+
+                                                                        </div>
+                                                                      </span></li>
+
+                                                                    <li class="popover-concealment-bottom a-text-right"><span class="a-list-item">
+                                                                        <span class="a-declarative" data-action="a-popover-close" data-a-popover-close="{}">
+                                                                          <span class="a-button a-spacing-mini a-button-base" id="a-autoid-13"><span class="a-button-inner"><input class="a-button-input" type="submit" aria-labelledby="a-autoid-13-announce"><span
+                                                                                class="a-button-text" aria-hidden="true" id="a-autoid-13-announce">
+                                                                                <span>
+                                                                                  Cancel
+                                                                                </span>
+                                                                              </span></span></span>
+                                                                        </span>
+                                                                        <span class="a-button a-spacing-mini a-button-primary set-concealment-options-button" id="a-autoid-14"><span class="a-button-inner"><input class="a-button-input" type="submit"
+                                                                              aria-labelledby="a-autoid-14-announce"><span class="a-button-text" aria-hidden="true" id="a-autoid-14-announce">
+                                                                              Save
+                                                                            </span></span></span>
+                                                                      </span></li>
+                                                                  </ol>
+                                                                </div>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+
+                                                        </div>
+
+
+
+
+
+
+
+
+
+
+                                                      </div>
+                                                    </div>
+                                                  </div>
+                                                </div>
+
+
+                                                <input type="hidden" name="dupOrderCheckArgs" value="B00N1XCA9M|1|ohqgnpirnip|ATVPDKIKX0DER">
+
+
+
+
+
+
+
+
+
+
+                                              </div>
+
+
+                                            </div>
+                                          </div>
+
+                                          <div class="a-column a-span6 a-span-last">
+
+
+                                            <div class="a-row shipping-speeds">
+                                              <fieldset>
+                                                <legend class="shipping-speeds-title shipping-speed-prime-header">
+                                                  <script type="a-state" data-a-state="{&quot;key&quot;:&quot;ms3-client-metadata&quot;}">
+                                                    { "containerRequestID": "d0eb8df9-dd8f-458a-8783-27570ddc6863",
+      "customerID": "ATPT130E1E3O7",
+      "isPrefetch": true,
+      "marketplaceID": "ATVPDKIKX0DER",
+      "pageType": "SPC" }
+</script>
+                                                  <style type="text/css">
+                                                    #ship_option_header {
+                                                      font-size: 12px;
+                                                      height: 20px;
+                                                      font-weight: bold;
+                                                    }
+                                                  </style>
+
+                                                  <div id="ship_option_header">
+                                                    Choose your Prime delivery option:</div>
+                                                </legend>
+
+
+
+
+
+
+                                                <div data-isscheduleddelivery="0" class="a-row a-radio shipping-speed ship-option pointer no-scheduled-delivery">
+                                                  <img alt="One-Day Delivery" src="https://images-na.ssl-images-amazon.com/images/G/01/x-locale/checkout/radio-on._CB485947362_.gif" data-isscheduleddelivery="0" data-shippingofferingid="A181EEEPOJBEKQ"
+                                                    class="radio-image js-hide">
+                                                  <div data-a-input-name="order0" data-guaranteetype="GUARANTEED" data-isshipwhencompletevalid="0" data-isshipwhenevervalid="1" data-isscheduleddelivery="0" data-issss="0" data-istrial="0"
+                                                    data-nosupportforgiftoption="" data-rcxsspdecoupling="1" data-shippingofferingid="A181EEEPOJBEKQ" data-shipsplitpriority="shipWhenever" data-testid="" data-trial-index="" class="a-radio radio-standard no-js-hide"><label><input
+                                                        type="radio" name="order0" value="next-1dc" checked=""><i class="a-icon a-icon-radio"></i><span class="a-label a-radio-label">
+
+
+
+
+                                                        <span data-testid="">
+                                                          <span class="a-color-success a-text-bold">Tomorrow, Nov. 21</span>
+                                                          <span class="a-color-secondary">
+                                                            <br>
+                                                            FREE&nbsp;One-Day Delivery</span>
+
+
+                                                        </span>
+
+                                                      </span></label></div>
+                                                </div>
+
+
+
+
+
+
+
+
+
+
+                                                <div id="amazonday-feature-indicator-container" style="display: none;" enabled-features="TwoADNewCustomerRecommendation"></div>
+                                                <span id="amazonday-string-container" data-ad-day-picker-multiple-preference-comma=", " data-ad-day-picker-multiple-preference-unset-value="---" class="aok-hidden"></span>
+
+
+
+
+
+
+
+
+
+
+                                                <script type="checkout-asset-trigger" data-checkout-asset-trigger="AmazonDayCheckoutAssets"></script>
+
+
+
+
+
+
+
+
+
+
+                                                <div class="a-row a-radio shipping-speed ship-option pointer">
+                                                  <img alt="Amazon Day Delivery" src="https://images-na.ssl-images-amazon.com/images/G/01/x-locale/checkout/radio-off._CB485935191_.gif" data-shippingofferingid="A2SO0K7H8Q0UM" class="radio-image js-hide">
+                                                  <div data-a-input-name="order0" data-guaranteetype="GUARANTEED" data-isshipwhencompletevalid="0" data-isshipwhenevervalid="1" data-isscheduleddelivery="0" data-issss="0" data-istrial="0"
+                                                    data-rcxsspdecoupling="1" data-shippingofferingid="A2SO0K7H8Q0UM" data-shipsplitpriority="shipWhenever" data-testid="" data-trial-index="" class="a-radio radio-standard no-js-hide"><label><input
+                                                        type="radio" name="order0" value="second-nominated-day"><i class="a-icon a-icon-radio"></i><span class="a-label a-radio-label">
+                                                        <span data-testid="">
+                                                          <span class="a-color-success a-text-bold">Friday, Nov. 27</span><br>
+                                                          <span class="a-color-secondary">
+                                                            FREE&nbsp;Amazon Day Delivery
+                                                          </span>
+
+
+
+
+
+
+
+
+                                                          <br>
+                                                        </span>
+
+                                                        <span class="a-color-base">
+
+
+
+
+
+                                                          Get your orders in fewer boxes.
+
+
+
+
+
+
+
+
+
+
+                                                          <br>
+                                                          <span class="a-color-base a-text-bold">
+                                                            Some orders may arrive a day early.</span>
+
+
+
+
+
+
+
+
+
+
+                                                          <span class="a-declarative" data-action="a-modal" data-a-modal="{&quot;name&quot;:&quot;amazonday-modal-day-picker&quot;,&quot;data&quot;:{&quot;addressId&quot;:&quot;5IGOA7TUKJWTXSGVASNIG13O3E1E031TPTATPT130E1E3O7PXTQ2EYA2OXH7MQAK&quot;,&quot;recommendedPreferences&quot;:[],&quot;isShipOptionDefaulted&quot;:0,&quot;adjustmentMessage&quot;:&quot;We’re unable to deliver on your Amazon Day. We’ll deliver on the nearest available day.&quot;,&quot;shippingOfferingId&quot;:&quot;A2SO0K7H8Q0UM&quot;,&quot;renderModalInAjax&quot;:&quot;1&quot;,&quot;lineItemId&quot;:&quot;A01986043U5SUQ25W1BEZ:&quot;,&quot;orderLineItemIds&quot;:&quot;A01986043U5SUQ25W1BEZ:&quot;,&quot;selection&quot;:[{&quot;plural&quot;:&quot;Thursdays&quot;,&quot;caption&quot;:&quot;Thursday&quot;,&quot;selection&quot;:&quot;THURSDAY&quot;}],&quot;promise&quot;:&quot;Friday, Nov. 27&quot;},&quot;height&quot;:null,&quot;footer&quot;:&quot;\n    \u003cdiv class=\&quot;a-row a-text-right\&quot;>\n        \u003cspan class=\&quot;a-declarative\&quot; data-action=\&quot;a-popover-close\&quot; data-a-popover-close=\&quot;{}\&quot;>\n            \u003cspan class=\&quot;a-button a-button-secondary\&quot;>\u003cspan class=\&quot;a-button-inner\&quot;>\u003cinput class=\&quot;a-button-input\&quot; type=\&quot;submit\&quot;>\u003cspan class=\&quot;a-button-text\&quot; aria-hidden=\&quot;true\&quot;>\nCancel\u003c/span>\u003c/span>\u003c/span>\n        \u003c/span>\n\n        \u003cspan class=\&quot;a-letter-space\&quot;>\u003c/span>\n\n        \u003cspan class=\&quot;a-declarative\&quot; data-action=\&quot;amazonday-modal-daypicker-save\&quot; data-amazonday-modal-daypicker-save=\&quot;{}\&quot;>\n            \u003cspan class=\&quot;a-button a-button-primary amazonday-daypicker-save-and-continue\&quot;>\u003cspan class=\&quot;a-button-inner\&quot;>\u003cbutton class=\&quot;a-button-text\&quot; type=\&quot;button\&quot;>\n                \nSave and Continue\n            \u003c/button>\u003c/span>\u003c/span>\n        \u003c/span>\n    \u003c/div>\n&quot;,&quot;closeType&quot;:null,&quot;url&quot;:&quot;/gp/buy/amazonday/shared/display/render-modal.html?ie=UTF8&amp;blacklistedDays=SUNDAY&amp;candidateDays=MONDAY%2CTUESDAY%2CWEDNESDAY%2CTHURSDAY%2CFRIDAY%2CSATURDAY&amp;defaultingShipOptionEnabled=1&amp;hasIneligibleDays=0&amp;showInBottomSheet=0&amp;showShipOptionNoteMessage=1&amp;twoAmazonDaysEnabled=&quot;,&quot;preloadDomId&quot;:null,&quot;header&quot;:&quot;Your Amazon Day&quot;}">
+                                                            <a class="a-link-normal no-ship-option-selection-change" href="JavaScript:void(0)">Change delivery day</a>
+                                                          </span>
+
+
+
+
+
+
+
+
+
+
+                                                          <br>
+                                                          <span class="a-size-small a-color-tertiary">
+                                                            We’re unable to provide Amazon Day deliveries on <span class="a-text-bold">Thursday, Nov. 26</span>. We’ll deliver on the nearest available day.</span>
+
+                                                        </span>
+
+                                                      </span></label></div>
+                                                </div>
+
+
+
+
+
+                                                <div data-isscheduleddelivery="0" class="a-row a-radio shipping-speed ship-option pointer no-scheduled-delivery">
+                                                  <img alt="No-Rush Shipping" src="https://images-na.ssl-images-amazon.com/images/G/01/x-locale/checkout/radio-off._CB485935191_.gif" data-isscheduleddelivery="0" data-shippingofferingid="A2ZJ5G1HEC7CIO"
+                                                    class="radio-image js-hide">
+                                                  <div data-a-input-name="order0" data-guaranteetype="GUARANTEED" data-isshipwhencompletevalid="0" data-isshipwhenevervalid="1" data-isscheduleddelivery="0" data-issss="0" data-istrial="0"
+                                                    data-nosupportforgiftoption="" data-rcxsspdecoupling="1" data-shippingofferingid="A2ZJ5G1HEC7CIO" data-shipsplitpriority="shipWhenever" data-testid="" data-trial-index="" class="a-radio radio-standard no-js-hide"><label><input
+                                                        type="radio" name="order0" value="no-rush-delivery"><i class="a-icon a-icon-radio"></i><span class="a-label a-radio-label">
+
+
+
+
+                                                        <span data-testid="">
+                                                          <span class="a-color-success a-text-bold">Tuesday, Dec. 1</span>
+                                                          <span class="a-color-secondary">
+                                                            <br>
+                                                            FREE&nbsp;No-Rush Shipping</span>
+
+
+                                                          <span class="deliveryPromoDescription">
+                                                            Get a $1 reward for select digital purchases. One reward per purchase.
+
+                                                            <a href="/gp/shipoptions/promotions/details?ie=UTF8&amp;nodeID=NoRushTiered100October2020&amp;pop-up=1&amp;ref=ox_shipoption_promodetails" target="AmazonHelp">Details</a>
+
+                                                          </span>
+                                                        </span>
+
+                                                      </span></label></div>
+                                                </div>
+
+
+                                              </fieldset>
+
+
+
+
+
+                                              <input type="hidden" name="shippingofferingid0.0" value="A181EEEPOJBEKQ">
+                                              <input type="hidden" name="guaranteetype0.0" value="GUARANTEED">
+                                              <input type="hidden" name="issss0.0" value="0">
+                                              <input type="hidden" name="shipsplitpriority0.0" value="shipWhenever">
+                                              <input type="hidden" name="isShipWhenCompleteValid0.0" value="0">
+                                              <input type="hidden" name="isShipWheneverValid0.0" value="1">
+                                              <input type="hidden" name="shippingofferingid0.1" value="A2SO0K7H8Q0UM">
+                                              <input type="hidden" name="guaranteetype0.1" value="GUARANTEED">
+                                              <input type="hidden" name="issss0.1" value="0">
+                                              <input type="hidden" name="shipsplitpriority0.1" value="shipWhenever">
+                                              <input type="hidden" name="isShipWhenCompleteValid0.1" value="0">
+                                              <input type="hidden" name="isShipWheneverValid0.1" value="1">
+                                              <input type="hidden" name="shippingofferingid0.2" value="A2ZJ5G1HEC7CIO">
+                                              <input type="hidden" name="guaranteetype0.2" value="GUARANTEED">
+                                              <input type="hidden" name="issss0.2" value="0">
+                                              <input type="hidden" name="shipsplitpriority0.2" value="shipWhenever">
+                                              <input type="hidden" name="isShipWhenCompleteValid0.2" value="0">
+                                              <input type="hidden" name="isShipWheneverValid0.2" value="1">
+                                              <input type="hidden" name="previousshippingofferingid0" value="A181EEEPOJBEKQ">
+                                              <input type="hidden" name="previousguaranteetype0" value="GUARANTEED">
+                                              <input type="hidden" name="previousissss0" value="0">
+                                              <input type="hidden" name="previousshippriority0" value="shipWhenever">
+                                              <input type="hidden" name="lineitemids0" value="A01986043U5SUQ25W1BEZ:" class="lineitemidinput">
+                                              <input type="hidden" name="currentshippingspeed" value="next-1dc">
+                                              <input type="hidden" name="previousShippingSpeed0" value="next-1dc">
+
+                                            </div>
+
+
+
+
+
+
+                                            <div class="a-row shipping-speeds">
+                                              <legend data-testid="campus-mixedcart-ship-option-title" class="shipping-speeds-title shipping-speed-prime-header campus-pickup-option-header">
+                                                Or choose your Prime pickup option:
+                                                <span data-testid="campus-mixedcart-view-location" class="no-strong">
+                                                  Pick up at Amazon - Seattle
+                                                  <span class="a-declarative" data-action="trigger-store-search-popover" data-trigger-store-search-popover="{&quot;header&quot;:&quot;FREE Pickup at these locations&quot;}">
+                                                    (<a class="a-link-normal locker-search-link aok-inline-block" href="/gp/buy/storeaddress/handlers/popover/search.html/ref=cmp_mc_so_clck_CAMPUS_ZSE?ie=UTF8&amp;defaultCampusStoreId=8043826455&amp;deliveryGroupEligibility=non-campus&amp;deliveryGroupSize=1&amp;hasWorkingJavascript=1&amp;isBeforeCampusCutoffTime=1&amp;latitude=47.58000281&amp;lineItemsQuantity=A01986043U5SUQ25W1BEZ%3A_1%23&amp;longitude=-122.33586895&amp;mixedCart=1&amp;multiDeliveryGroups=0&amp;orderId=111-3047269-2440243&amp;orderLineItemIds=A01986043U5SUQ25W1BEZ%3A&amp;pickupType=All&amp;searchCriterion=storeIds&amp;storeIds=3279962019%2C9392828146%2C4073131389%2C5337487496%2C8043826455&amp;storeZip=98134">
+                                                      View Location
+                                                    </a>)
+                                                  </span>
+                                                </span>
+                                              </legend>
+
+                                              <div class="a-row prime-ship-speed">
+                                                <span class="a-declarative" data-action="trigger-store-search-popover" data-trigger-store-search-popover="{&quot;header&quot;:&quot;FREE Pickup at these locations&quot;}">
+                                                  <a class="a-link-normal locker-search-link" href="/gp/buy/storeaddress/handlers/popover/search.html/ref=cmp_mc_so_clck_CAMPUS_ZSE?ie=UTF8&amp;defaultCampusStoreId=8043826455&amp;deliveryGroupEligibility=non-campus&amp;deliveryGroupSize=1&amp;hasWorkingJavascript=1&amp;isBeforeCampusCutoffTime=1&amp;latitude=47.58000281&amp;lineItemsQuantity=A01986043U5SUQ25W1BEZ%3A_1%23&amp;longitude=-122.33586895&amp;mixedCart=1&amp;multiDeliveryGroups=0&amp;orderId=111-3047269-2440243&amp;orderLineItemIds=A01986043U5SUQ25W1BEZ%3A&amp;pickupType=All&amp;searchCriterion=storeIds&amp;storeIds=3279962019%2C9392828146%2C4073131389%2C5337487496%2C8043826455&amp;storeZip=98134">
+                                                    <div data-testid="campus-mixedcart-ship-option" class="a-radio prime-fake-radio"><label><input type="radio" name="" value=""><i class="a-icon a-icon-radio"></i><span class="a-label a-radio-label">
+                                                          <span class="a-color-success campus-pickup-option-upsell a-text-bold">
+                                                            Saturday, November 21
+                                                          </span>
+                                                          <span class="a-color-secondary">
+
+
+                                                            <br>
+                                                            FREE One-Day Delivery
+                                                          </span>
+                                                        </span></label></div>
+                                                  </a>
+                                                </span>
+                                              </div>
+                                              <span class="campus-pickup-option-disclaimer"> </span>
+
+                                            </div>
+
+
+                                            <div data-testid="" class="a-row">
+
+                                              <div class="a-row ship-split-preferences hidden">
+
+                                                <input type="hidden" name="currentshipsplitpreference" value="shipWhenever">
+                                                <input type="hidden" name="shippriority.0.shipWhenever" value="shipWhenever">
+
+                                              </div>
+
+                                            </div>
+                                            <div class="a-row">
+
+
+                                            </div>
+
+
+                                          </div>
+                                        </div>
+                                      </div>
+
+
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+
+
+
+                              <script type="text/javascript">
+                                P.when("client-side-metrics").execute(function(csm) {
+                                  csm.setmarker('cf');
+                                });
+                              </script>
+                              <!-- MarkCF -->
+                              <input type="hidden" name="groupcount" value="1">
+                              <input type="hidden" name="shiptrialprefix" value="Y7BX5A4M88D09D5NASR0">
+                              <script type="a-state" data-a-state="{&quot;key&quot;:&quot;SnSLineItems&quot;}">{}</script>
+                            </div>
+
+
+                            <span id="spc-form-inputs">
+
+                              <input type="hidden" name="" value="1" id="nonDownloadItemCount">
+                              <input type="hidden" name="" value="1" id="shipTrialToCacheCount">
+                              <input type="hidden" name="" value="Close" id="closeButtonText">
+                              <input type="hidden" name="" value="We're sorry, an error has occurred. You can still continue placing your order." id="primePopopverFallbackContent">
+                              <input type="hidden" name="fromAnywhere" value="0">
+                              <input type="hidden" name="redirectOnSuccess" value="0">
+                              <input type="hidden" name="purchaseTotal" value="143.12">
+                              <input type="hidden" name="purchaseTotalCurrency" value="USD">
+                              <input type="hidden" name="purchaseID" value="106-0580875-1511452">
+                              <input type="hidden" name="purchaseCustomerId" value="ATPT130E1E3O7">
+                              <input type="hidden" name="useCtb" value="1">
+                              <input type="hidden" name="scopeId" value="Y7BX5A4M88D09D5NASR0">
+                              <input type="hidden" name="isQuantityInvariant">
+                              <input type="hidden" name="" value="1" id="passAjaxRequestHeader">
+                              <input type="hidden" name="" value="0" id="multipleAFNGiftWrapOption">
+                              <input type="hidden" name="promiseTime-0" value="1605945600">
+                              <input type="hidden" name="promiseAsin-0" value="B00N1XCA9M">
+                              <input type="hidden" name="" value="10" id="toggleDropdownQuantityTrigger">
+                              <input type="hidden" name="selectedPaymentPaystationId" value="amzn1.pm.wallet.MGhfUFVfQ1VTX2MyYjllM2MwLWUzZjktNDJhOS1hZGRiLTgyMTljNWZjMGRjZQ.QVRQVDEzMEUxRTNPNw" id="selectedPaymentPaystationId">
+
+                            </span>
+                            <input type="hidden" name="hasWorkingJavascript" value="1">
+                          </form>
+
+
+
+
+                          <span id="fasttrack-day" class="hidden">day</span>
+                          <span id="fasttrack-days" class="hidden">days</span>
+                          <span id="fasttrack-hour" class="hidden">hour</span>
+                          <span id="fasttrack-hours" class="hidden">hours</span>
+                          <span id="fasttrack-and" class="hidden">and</span>
+                          <span id="fasttrack-minute" class="hidden">minute</span>
+                          <span id="fasttrack-minutes" class="hidden">minutes</span>
+                          <span id="fasttrack-second" class="hidden">second</span>
+                          <span id="fasttrack-seconds" class="hidden">seconds</span>
+
+
+
+
+
+
+
+
+
+                        </div>
+
+
+
+
+
+                        <script type="text/javascript">
+                          // Registering same component multiple times is not allowed:
+                          // https://aui.amazon.com/development/js_framework/module_system#Registering_Multiple_Times
+                          if (!window.giftOptionsPopoverDataRegistered) {
+                            window.giftOptionsPopoverDataRegistered = true;
+                            P.register('giftOptionsPopoverData', function() {
+                              return {
+                                lineItemCount: 1
+                              };
+                            });
+                          }
+                        </script>
+
+
+
+
+
+
+
+
+
+
+                        <div class="a-popover-preload" id="a-popover-changeGiftOptionsPopover0">
+                          <div id="giftOptions-contains0" class="a-section a-spacing-none chewbacca-gift-popover-container">
+                            <span class="a-declarative" data-action="chewbacca-gift-options-popover-submit" data-chewbacca-gift-options-popover-submit="{}">
+                              <form id="changeGiftOptionsPopup-0" method="post" action="/gp/buy/gift/handlers/save-all.html?_from=cheetah" class="checkout-page-form">
+                                <input type="hidden" name="itemIndex" value="0">
+                                <input type="hidden" name="quantity.0" value="1">
+
+
+
+
+
+
+
+
+
+
+                                <div id="item-0" class="a-section a-spacing-none">
+                                  <input type="hidden" name="entityId.0" value="bWlxOi8vZG9jdW1lbnQ6MS4wL09yZGVyaW5nL2FtYXpvbjoxLjAvTGluZUl0ZW06MS4wLzI4YTNiZWE2LWU0MDctNDgxNC05NTkwLTQyNmQzNjgwZDljNQ==">
+                                  <input type="hidden" name="isAFN.0" value="1">
+                                  <div class="a-fixed-left-grid">
+                                    <div class="a-fixed-left-grid-inner a-grid-vertical-align a-grid-center">
+                                      <div class="a-fixed-left-grid-col a-col-left" style="width: 80px; margin-left: -80px; float: left;">
+
+
+
+                                        <img alt="" src="https://m.media-amazon.com/images/I/81kSvlKGtFL._SR80,80_.jpg" data-testid="" class="a-dynamic-image" data-a-dynamic-image="{}">
+
+
+                                      </div>
+                                      <div class="a-fixed-left-grid-col a-col-right" style="padding-left:2%;float:left;">
+                                        <span data-testid="" class="a-size-base-plus a-text-bold">
+                                          <span class="a-truncate" data-a-word-break="normal" data-a-max-rows="2" data-a-overflow-marker="&amp;hellip;" style="line-height: 1.3em !important; max-height: 2.6em;" data-a-recalculate="false"
+                                            data-a-updated="true"><span class="a-truncate-full a-offscreen">AcuRite 01512 Wireless Home Station for Indoor and Outdoor with 5-in-1 Weather Sensor: Temperature, Humidity, Wind Speed, Direction, and
+                                              Rainfall, Full Color</span><span class="a-truncate-cut" aria-hidden="true" style="height: auto;">AcuRite 01512 Wireless Home Station for Indoor and Outdoor with 5-in-1 Weather Sensor: Temperature,
+                                              Humidity, Wind Speed, Direction, and Rainfall, Full Color</span></span>
+                                        </span>
+
+
+
+
+
+
+
+
+
+
+                                        <span class="a-declarative" data-action="chewbacca-toggle-gift-item" data-chewbacca-toggle-gift-item="{&quot;lineItemIndex&quot;:0}">
+                                          <div data-a-input-name="includeReceipt.0" data-testid="" class="a-checkbox toggle-gift-checkbox"><label for="toggle-gift-item-checkbox-0"><input id="toggle-gift-item-checkbox-0" type="checkbox" name="includeReceipt.0"
+                                                value="1" checked=""><i class="a-icon a-icon-checkbox"></i><span class="a-label a-checkbox-label">
+                                                <span>
+                                                  This item is a gift
+                                                </span>
+                                              </span></label></div>
+                                        </span>
+
+
+
+
+
+
+                                      </div>
+                                    </div>
+                                  </div>
+
+                                  <div id="gift-options-box-0" class="a-section a-spacing-micro a-spacing-top-small a-padding-none">
+                                    <div class="a-row">
+
+
+                                      <div class="a-column a-span6">
+
+
+
+
+
+
+
+
+
+
+                                        <div data-testid="" class="a-section a-spacing-mini a-spacing-top-mini">
+
+                                          <div class="a-row a-spacing-mini">
+                                            <div class="a-column a-span6 a-text-left">
+                                              <span class="a-text-bold">
+                                                Gift Message
+                                              </span>
+                                            </div>
+                                            <div data-testid="" class="a-column a-span6 a-text-right a-span-last">
+
+                                              <div id="message-counter-0" data-new-counter-weblab-on="true" class="a-section">
+
+
+
+
+
+
+
+
+
+
+                                                <span data-message-data="{&quot;over&quot;:{&quot;single&quot;:&quot;character over&quot;,&quot;multiple&quot;:&quot;characters over&quot;},&quot;remaining&quot;:{&quot;single&quot;:&quot;character&quot;,&quot;multiple&quot;:&quot;characters&quot;}}"
+                                                  class="a-size-mini a-color-secondary counter-text chars-counter">
+                                                  <span class="count"></span> <span class="message"></span>
+                                                </span>
+
+                                                <span class="a-size-mini a-color-secondary">
+                                                  ·
+                                                </span>
+
+
+
+
+
+
+
+
+
+
+                                                <span data-message-data="{&quot;over&quot;:{&quot;single&quot;:&quot;line over&quot;,&quot;multiple&quot;:&quot;lines over&quot;},&quot;remaining&quot;:{&quot;single&quot;:&quot;line&quot;,&quot;multiple&quot;:&quot;lines&quot;}}"
+                                                  class="a-size-mini a-color-secondary counter-text lines-counter">
+                                                  <span class="count"></span> <span class="message"></span>
+                                                </span>
+                                              </div>
+                                            </div>
+                                          </div>
+
+
+
+
+
+
+
+
+
+
+                                          <div class="a-row a-spacing-top-micro">
+                                            <span class="a-declarative" data-action="chewbacca-gift-message-textarea" data-chewbacca-gift-message-textarea="{&quot;lineItemIndex&quot;:0}">
+                                              <div data-message-validation-options="{&quot;validateDigitalGiftMessage&quot;:true,&quot;maxLineLength&quot;:24,&quot;senderNameIsOptional&quot;:false,&quot;maxLines&quot;:10,&quot;maxChars&quot;:240}"
+                                                data-testid="" class="a-input-text-wrapper gift-message-textarea gcx-border-square-bottom gcx-border-bottom-none"><textarea maxlength="240" placeholder="Add your message." id="message-area-0" rows="4"
+                                                  name="message.0">Enjoy your gift!</textarea></div>
+                                            </span>
+                                          </div>
+
+
+
+
+
+
+                                          <div class="a-row">
+                                            <span class="a-declarative" data-action="chewbacca-sender-name-input" data-chewbacca-sender-name-input="{&quot;lineItemIndex&quot;:0}">
+                                              <div class="sender-name-input-group">
+                                                <div class="sender-name-input-addon">
+                                                  <span>From</span>
+                                                </div>
+                                                <input type="text" value="Susan Cathcart" id="gift-message-sender-input-0" name="senderName.0" class="a-input-text sender-name-text-input gcx-border-square-top">
+                                              </div>
+                                            </span>
+                                          </div>
+
+
+
+
+
+
+
+
+
+
+                                          <div class="a-section a-spacing-none">
+                                            <div id="message-url-warning-0" class="a-box a-alert-inline a-alert-inline-error aok-hidden a-spacing-top-mini" aria-live="assertive" role="alert">
+                                              <div class="a-box-inner a-alert-container"><i class="a-icon a-icon-alert"></i>
+                                                <div class="a-alert-content">
+                                                  Message should not contain URL
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                          <div class="a-section a-spacing-none">
+                                            <div id="sender-name-url-warning-0" class="a-box a-alert-inline a-alert-inline-error aok-hidden a-spacing-top-mini" aria-live="assertive" role="alert">
+                                              <div class="a-box-inner a-alert-container"><i class="a-icon a-icon-alert"></i>
+                                                <div class="a-alert-content">
+                                                  Sender name should not contain URL
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                          <div class="a-section a-spacing-none">
+                                            <div id="sender-name-empty-warning-0" class="a-box a-alert-inline a-alert-inline-error aok-hidden a-spacing-top-mini" aria-live="assertive" role="alert">
+                                              <div class="a-box-inner a-alert-container"><i class="a-icon a-icon-alert"></i>
+                                                <div class="a-alert-content">
+                                                  Sender name should not be empty
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                          <div class="a-section a-spacing-none">
+                                            <div id="message-length-warning-0" class="a-box a-alert-inline a-alert-inline-error aok-hidden a-spacing-top-mini" aria-live="assertive" role="alert">
+                                              <div class="a-box-inner a-alert-container"><i class="a-icon a-icon-alert"></i>
+                                                <div class="a-alert-content">
+                                                  Message and sender name are too long
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+
+
+
+
+
+                                      </div>
+
+
+                                      <div class="a-column a-span6 a-span-last">
+                                        <div class="a-section a-spacing-micro a-spacing-top-mini">
+
+
+                                          <span class="a-text-bold">
+
+
+
+                                            Add ons
+
+
+                                          </span>
+
+
+
+
+
+
+
+
+
+
+                                          <div class="a-section a-spacing-none">
+
+
+
+
+
+
+
+
+
+
+                                            <span class="a-declarative" data-action="chewbacca-digital-gift-message-checkbox" data-chewbacca-digital-gift-message-checkbox="{&quot;lineItemIndex&quot;:0}">
+                                              <div data-testid="" class="a-checkbox digital-gift-message-checkbox a-spacing-none a-spacing-top-mini"><label for="digital-gift-message-checkbox-0"><input id="digital-gift-message-checkbox-0" type="checkbox"
+                                                    name="" value=""><i class="a-icon a-icon-checkbox"></i><span class="a-label a-checkbox-label">
+
+                                                    <span>
+
+
+
+                                                      Email the recipient a copy of their gift receipt after the gift is delivered
+
+
+                                                    </span>
+
+
+
+
+
+
+
+
+
+
+                                                    <span class="a-declarative" data-action="chewbacca-recipient-contact-details" data-chewbacca-recipient-contact-details="{&quot;lineItemIndex&quot;:0}">
+
+                                                      <input type="text" id="digital-gift-message-text-input-0" placeholder="Recipient's email address" name="recipientContactDetails.0" class="a-input-text a-width-large a-spacing-top-micro recipient-contact-details-input"
+                                                        data-testid="">
+                                                    </span>
+
+
+                                                  </span></label></div>
+                                            </span>
+
+
+                                            <div class="a-section a-spacing-none">
+                                              <div id="recipient-not-email-warning-0" class="a-box a-alert-inline a-alert-inline-error aok-hidden a-spacing-top-mini" aria-live="assertive" role="alert">
+                                                <div class="a-box-inner a-alert-container"><i class="a-icon a-icon-alert"></i>
+                                                  <div class="a-alert-content">
+                                                    Please provide a valid email address
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+
+
+                                          </div>
+
+
+
+
+
+
+
+
+
+
+                                          <div class="a-section a-spacing-none a-spacing-top-mini">
+                                            <span data-testid="">
+
+
+
+                                              Gift Wrap is unavailable for this item.
+
+
+                                            </span>
+                                          </div>
+
+
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+
+                                </div>
+
+
+
+
+
+
+
+
+
+
+                                <span class="a-button a-button-primary chewbacca-enabled-save-gift-options-button" id="a-autoid-15"><span class="a-button-inner"><input data-testid="GiftOptions_saveButton-0" class="a-button-input" type="submit"
+                                      aria-labelledby="a-autoid-15-announce"><span class="a-button-text" aria-hidden="true" id="a-autoid-15-announce">
+                                      Save gift options and continue
+                                    </span></span></span>
+
+
+
+                                <span class="a-declarative" data-action="a-tooltip" data-a-tooltip="{&quot;content&quot;:&quot;Please correct errors to save gift options.&quot;}">
+                                  <span class="a-button a-button-disabled a-button-primary chewbacca-disabled-save-gift-options-button aok-hidden" id="a-autoid-16"><span class="a-button-inner"><input data-testid="GiftOptions_saveButton-0-disabled"
+                                        disabled="disabled" class="a-button-input" type="submit" aria-labelledby="a-autoid-16-announce"><span class="a-button-text" aria-hidden="true" id="a-autoid-16-announce">
+                                        Save gift options and continue
+                                      </span></span></span>
+                                </span>
+
+
+
+
+
+                                <span class="a-declarative" data-action="a-popover-close" data-a-popover-close="{}">
+                                  <span id="chewbacca-cancel-gift-options-popup-button-0" class="a-button a-button-base"><span class="a-button-inner"><button id="chewbacca-cancel-gift-options-popup-button-0-announce" class="a-button-text" type="button">
+                                        Cancel
+                                      </button></span></span>
+                                </span>
+                                <input type="hidden" name="hasWorkingJavascript" value="1">
+                              </form>
+                            </span>
+                          </div>
+                        </div>
+
+                        <div class="a-popover-preload" id="a-popover-installmentsModal">
+                          <div class="a-row">
+                            This will remove the monthly payments option for the entire bundle. Are you sure you want to do this?
+                          </div>
+                        </div>
+
+                        <div class="hidden">
+                          <span class="a-declarative" data-action="a-modal" data-a-modal="{&quot;footer&quot;:&quot;\u003cdiv class=\&quot;a-section a-text-right\&quot;>\n        \u003cspan class=\&quot;a-declarative\&quot; data-action=\&quot;installments-cancel\&quot; data-installments-cancel=\&quot;{}\&quot;>\n          \u003cspan class=\&quot;a-button a-button-base\&quot;>\u003cspan class=\&quot;a-button-inner\&quot;>\u003cinput class=\&quot;a-button-input\&quot; type=\&quot;submit\&quot;/>\u003cspan class=\&quot;a-button-text\&quot; aria-hidden=\&quot;true\&quot;>Cancel\u003c\/span>\u003c\/span>\u003c\/span>\n        \u003c\/span>\n        \u003cspan class=\&quot;a-declarative\&quot; data-action=\&quot;installments-confirm\&quot; data-installments-confirm=\&quot;{}\&quot;>\n          \u003cspan class=\&quot;a-button a-button-primary\&quot;>\u003cspan class=\&quot;a-button-inner\&quot;>\u003cinput class=\&quot;a-button-input\&quot; type=\&quot;submit\&quot;/>\u003cspan class=\&quot;a-button-text\&quot; aria-hidden=\&quot;true\&quot;>Yes, remove monthly payments\u003c\/span>\u003c\/span>\u003c\/span>\n        \u003c\/span>\n    \u003c\/div>&quot;,&quot;name&quot;:&quot;installmentsModal&quot;,&quot;width&quot;:&quot;440px&quot;,&quot;header&quot;:&quot;Remove monthly payments for entire bundle?&quot;}"
+                            id="installmentsModal">
+                            <a href="javascript:void(0)" class="a-popover-trigger a-declarative">
+                              <div id="trigger-installments-modal">
+                              </div>
+                              <i class="a-icon a-icon-popover"></i>
+                            </a>
+                          </span>
+                        </div>
+                      </div>
+
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+
+            <script type="text/javascript">
+              P.when("client-side-metrics").execute(function(csm) {
+                csm.finishWidgetTiming('revieworder');
+              });
+            </script>
+
+
+
+
+            <script type="text/javascript">
+              P.when("client-side-metrics").execute(function(csm) {
+                csm.setMarkerForWidget('bb', 'hidden-revieworder');
+              });
+            </script>
+
+            <div class="a-row a-spacing-small">
+
+              <div id="hidden-revieworder" data-step-index="" class="a-row  cacheable-spp-panel spp-panel celwidget aok-hidden" data-csa-c-id="u639pq-9yowrs-l44jk6-50xmo4" data-cel-widget="hidden-revieworder">
+              </div>
+            </div>
+
+
+            <script type="text/javascript">
+              P.when("client-side-metrics").execute(function(csm) {
+                csm.finishWidgetTiming('hidden-revieworder');
+              });
+            </script>
+
+          </div>
+        </div>
+
+        <div class="a-fixed-left-grid a-spacing-base">
+          <div class="a-fixed-left-grid-inner" style="padding-left:35px">
+            <div class="a-fixed-left-grid-col a-col-left" style="width:35px;margin-left:-35px;float:left;">
+            </div>
+            <div class="a-fixed-left-grid-col a-col-right" style="padding-left:0%;float:left;">
+
+              <div id="bottomsubtotals" class="a-row cacheable-spp-section celwidget" data-csa-c-id="yjif8a-t639kq-qrw5xz-b2cias" data-cel-widget="bottomsubtotals">
+                <div class="a-box a-spacing-top-mini">
+                  <div class="a-box-inner">
+
+                    <div class="a-section inline-container">
+                      <div class="a-section inline-container-left">
+
+                        <span class="place-order-btn">
+
+                          <input type="hidden" name="" value="1" id="is-remove-os-pabt">
+
+                          <span class="continue-buttons place-order-button">
+
+
+
+                            <span id="bottomSubmitOrderButtonId" class="a-button a-button-primary continue-button celwidget place-order-button-link buy-button-height buy-button-sky-fix" data-csa-c-id="dvgg06-60cnhw-jvklvj-x9gpxn" data-cel-widget="bottomSubmitOrderButtonId"><span
+                                class="a-button-inner"><input name="placeYourOrder1" data-testid="" class="a-button-input" type="submit" aria-labelledby="bottomSubmitOrderButtonId-announce"><span id="bottomSubmitOrderButtonId-announce" class="a-button-text"
+                                  aria-hidden="true">
+                                  <span class="place-order-button-text buy-button-line-height">Place your order</span>
+                                </span></span></span>
+
+
+
+
+                            <span class="a-declarative" data-action="ue-count" data-ue-count="{&quot;countFlag&quot;:&quot;checkout:spp-disabled-buybtn:clicked:revieworder&quot;,&quot;countValue&quot;:1}">
+                              <span class="a-declarative" data-action="a-tooltip-button-blocker" data-a-tooltip-button-blocker="{&quot;name&quot;:&quot;revieworder-continue-blocker-msg&quot;}">
+                                <span id="bottom-review-order-continue-blocker-tooltip-trigger" class="a-button a-button-disabled a-button-primary aok-hidden continue-button-blocker celwidget buy-button-height buy-button-sky-fix" data-csa-c-id="d3dcvy-2pmsd6-5a5cvh-9jh8r4"
+                                  data-cel-widget="bottom-review-order-continue-blocker-tooltip-trigger"><span class="a-button-inner"><input name="placeYourOrder1" data-testid="" disabled="disabled" class="a-button-input" type="submit"
+                                      aria-labelledby="bottom-review-order-continue-blocker-tooltip-trigger-announce"><span id="bottom-review-order-continue-blocker-tooltip-trigger-announce" class="a-button-text" aria-hidden="true">
+                                      <span class="place-order-button-text buy-button-line-height">Place your order</span>
+                                    </span></span></span>
+                              </span>
+                            </span>
+
+                          </span>
+
+
+
+
+
+                        </span>
+
+                      </div>
+                      <div class="a-section inline-container-right">
+
+
+
+
+                        <span class="order-summary">
+
+                          <span id="subtotals-transactional-spp-bottom" data-testid="" class="js-hide">
+                            <span class="a-size-medium a-color-price a-text-bold"></span>
+                            <span class="a-size-medium a-color-price subtotal-amount a-text-bold"></span>
+                          </span>
+
+                          <span id="subtotals-marketplace-spp-bottom" data-testid="">
+                            <span class="a-size-medium a-color-price subtotal-amount a-text-bold">Order total:<span class="a-letter-space"></span>$143.12</span>
+                          </span>
+
+                        </span>
+
+
+                        <span class="place-order-condition">
+                          <br>
+
+                          <span class="a-size-mini a-color-secondary">
+                            <p>
+
+
+
+
+
+
+
+
+
+
+                              <span>By placing your order, you agree to Amazon's </span><span class="a-declarative" data-action="help-popup" data-help-popup="{}"><span class="help-node-link-wrapper"><a class="a-link-normal" target="AmazonHelp" rel="noopener"
+                                    href="/gp/help/customer/display.html?nodeId=201909010&amp;pop-up=1"><span>privacy notice</span></a></span></span><span> and </span><span class="a-declarative" data-action="help-popup" data-help-popup="{}"><span
+                                  class="help-node-link-wrapper"><a class="a-link-normal" target="AmazonHelp" rel="noopener" href="/gp/help/customer/display.html?nodeId=201909000&amp;pop-up=1"><span>conditions of use</span></a></span></span><span>.</span>
+
+
+
+
+
+
+                            </p>
+                          </span>
+                        </span>
+
+                      </div>
+                    </div>
+
+                  </div>
+                </div>
+              </div>
+
+
+
+
+
+
+
+            </div>
+          </div>
+        </div>
+
+        <div class="a-divider a-divider-section">
+          <div class="a-divider-inner"></div>
+        </div>
+
+
+
+
+
+
+
+        <div id="footer" data-testid="" class="a-row cacheable-spp-section celwidget" data-csa-c-id="dwp5yr-1d5zu8-xt8601-la8ep0" data-cel-widget="footer">
+
+
+
+
+          <div class="a-row a-spacing-small a-size-mini a-color-secondary">
+            Need help? Check our <a class="a-link-normal" target="AmazonHelp" rel="noopener" href="/gp/help/customer/display.html/ref=chk_help_helpfooter_pri?ie=UTF8&amp;nodeId=3528941">Help pages</a> or <a href="/gp/help/contact-us/general-questions.html/ref=chk_help_contactfooter_pri"
+              target="AmazonHelp">contact us</a>
+          </div>
+
+
+
+          <div class="a-row a-spacing-small a-size-mini a-color-secondary">
+            For an item sold by Amazon.com: When you click the "Place your order" button, we'll send you an email message acknowledging receipt of your order. Your contract to purchase an item will not be complete until we send you an email
+            notifying you that the item has been shipped.
+          </div>
+
+
+
+          <div id="state-sales-tax-info" class="a-row a-spacing-small a-size-mini a-color-secondary">
+            <a class="a-link-normal" target="AmazonHelp" rel="noopener" href="/gp/help/customer/display.html/ref=chk_help_statetaxfooter_pri?ie=UTF8&amp;nodeId=202029100">Important information about sales tax you may owe in your state</a>
+          </div>
+
+
+
+
+          <div class="a-row a-spacing-small a-size-mini a-color-secondary">
+            You may return new, unopened merchandise in original condition within 30 days of delivery. Exceptions and restrictions apply. See Amazon.com's <a class="a-link-normal" target="AmazonHelp" rel="noopener" href="/gp/help/customer/display.html/ref=chk_help_returnsfooter_pri?ie=UTF8&amp;nodeId=201819090">Returns
+              Policy</a>.<br><br>Need to add more items to your order? Continue shopping on the <a href="https://www.amazon.com/ref=chk_help_homefooter_pri">Amazon.com homepage</a>.
+          </div>
+
+          <div class="a-popover-preload" id="a-popover-">
+            <div id="return-policy-help" class="a-row help-content"></div>
+          </div>
+        </div>
+
+      </div>
+      <div id="subtotalsSection" class="a-fixed-right-grid-col a-col-right" style="width:290px;margin-right:-290px;float:left;">
+        <div id="subtotalsContainer" class="a-box-group" style="position: relative; top: 0px; width: inherit;">
+
+
+
+          <script type="text/javascript">
+            P.when("client-side-metrics").execute(function(csm) {
+              csm.setMarkerForWidget('bb', 'orderSummary');
+            });
+          </script>
+
+          <div id="subtotals" class="a-box a-first cacheable-spp-section celwidget" data-csa-c-id="htt8ho-1mytye-1di83m-jn0osv" data-cel-widget="subtotals">
+            <div class="a-box-inner">
+
+              <div class="a-row place-order-button">
+                <div class="a-row a-spacing-micro">
+
+                  <input type="hidden" name="" value="1" id="is-remove-os-pabt">
+
+                  <div class="a-row continue-buttons place-order-button">
+                    <div id="place-order-btn-blocker-msg" class="a-row hidden">
+                    </div>
+
+
+
+                    <span id="submitOrderButtonId" class="a-button a-button-span12 a-button-primary continue-button celwidget place-order-button-link buy-button-height buy-button-sky-fix" data-csa-c-id="nbcd36-eumh35-x4iiwf-o4zs9j" data-cel-widget="submitOrderButtonId"><span
+                        class="a-button-inner"><input name="placeYourOrder1" data-testid="" class="a-button-input" type="submit" aria-labelledby="submitOrderButtonId-announce"><span id="submitOrderButtonId-announce" class="a-button-text" aria-hidden="true">
+                          <span class="place-order-button-text buy-button-line-height">Place your order</span>
+                        </span></span></span>
+
+                    <div class="a-row">
+
+
+
+                      <span class="a-declarative" data-action="ue-count" data-ue-count="{&quot;countFlag&quot;:&quot;checkout:spp-disabled-buybtn:clicked:revieworder&quot;,&quot;countValue&quot;:1}">
+                        <span class="a-declarative" data-action="a-tooltip-button-blocker" data-a-tooltip-button-blocker="{&quot;name&quot;:&quot;revieworder-continue-blocker-msg&quot;}">
+                          <span id="review-order-continue-blocker-tooltip-trigger" class="a-button a-button-disabled a-button-span12 a-button-primary aok-hidden continue-button-blocker celwidget buy-button-height buy-button-sky-fix" data-csa-c-id="2rk1wo-dhzw1i-5rpvff-qzi1s9"
+                            data-cel-widget="review-order-continue-blocker-tooltip-trigger"><span class="a-button-inner"><input name="placeYourOrder1" data-testid="" disabled="disabled" class="a-button-input" type="submit" aria-labelledby="review-order-continue-blocker-tooltip-trigger-announce"><span
+                                id="review-order-continue-blocker-tooltip-trigger-announce" class="a-button-text" aria-hidden="true">
+                                <span class="place-order-button-text buy-button-line-height">Place your order</span>
+                              </span></span></span>
+                        </span>
+                      </span>
+
+                    </div>
+                  </div>
+
+
+
+
+                  <script type="text/javascript">
+                    P.when("client-side-metrics").execute(function(csm) {
+                      csm.setmarker('fn');
+                    });
+                  </script>
+
+
+
+
+                  <input type="hidden" name="isfirsttimecustomer" value="0">
+
+                </div>
+
+
+
+                <script type="text/javascript">
+                  P.when("client-side-metrics").execute(function(csm) {
+                    csm.setmarker('af');
+                  });
+                </script>
+                <!-- MarkAF -->
+                <script type="text/javascript">
+                  if (ue) {
+                    ue.count("atfMarked", (ue.count("atfMarked") || 0) + 1);
+                  }
+                </script>
+
+                <div class="a-row a-spacing-small a-text-center condensed-line-height">
+                  <span data-testid="" class="a-size-small a-color-secondary">
+                    <p>
+
+
+
+
+
+
+
+
+
+
+                      <span>By placing your order, you agree to Amazon's </span><span class="a-declarative" data-action="help-popup" data-help-popup="{}"><span class="help-node-link-wrapper"><a class="a-link-normal" target="AmazonHelp" rel="noopener"
+                            href="/gp/help/customer/display.html?nodeId=201909010&amp;pop-up=1"><span>privacy notice</span></a></span></span><span> and </span><span class="a-declarative" data-action="help-popup" data-help-popup="{}"><span class="help-node-link-wrapper"><a
+                            class="a-link-normal" target="AmazonHelp" rel="noopener" href="/gp/help/customer/display.html?nodeId=201909000&amp;pop-up=1"><span>conditions of use</span></a></span></span><span>.</span>
+
+
+
+
+
+
+                    </p>
+
+
+
+
+                  </span>
+                </div>
+                <hr class="a-spacing-small a-divider-normal">
+              </div>
+
+              <div aria-label="Order summary and subtotal" class="a-section" role="form">
+
+                <div class="a-row order-summary">
+                  <div class="a-row a-grid-vertical-align a-grid-center">
+
+
+
+
+
+
+
+
+
+
+                    <div id="spc-order-summary" class="a-row">
+
+                      <input type="hidden" name="isTFXEligible" id="isTFXEligible">
+                      <input type="hidden" name="isFxEnabled" id="isFxEnabled">
+                      <input type="hidden" name="isFXTncShown" id="isFXTncShown">
+
+
+
+
+                      <div id="tfx-header" class="a-row hidden">
+                        <div class="a-box a-alert-inline a-alert-inline-info a-spacing-none">
+                          <div class="a-box-inner a-alert-container"><i class="a-icon a-icon-alert"></i>
+                            <div class="a-alert-content">
+                              <span id="fxGoodNews-transactional" class="hidden">
+
+
+                                <span class="no-js-hide">
+                                  <span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;true&quot;,&quot;position&quot;:&quot;triggerLeft&quot;,&quot;name&quot;:&quot;tfx-learn-more&quot;,&quot;popoverLabel&quot;:&quot;Learn more&quot;,&quot;header&quot;:null}">
+                                    <a class="a-size-mini a-link-normal" href="#">Learn more</a>
+                                  </span>
+
+                                  <div class="a-popover-preload" id="a-popover-tfx-learn-more">
+
+                                  </div>
+                                </span>
+
+                                <span class="js-hide">
+
+                                </span>
+
+                              </span>
+                              <span id="fxGoodNews-marketplace">
+
+
+                                <span class="no-js-hide">
+                                  <span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;true&quot;,&quot;position&quot;:&quot;triggerLeft&quot;,&quot;name&quot;:&quot;tfx-learn-more&quot;,&quot;popoverLabel&quot;:&quot;Learn more&quot;,&quot;header&quot;:null}">
+                                    <a class="a-size-mini a-link-normal" href="#">Learn more</a>
+                                  </span>
+
+                                  <div class="a-popover-preload" id="a-popover-tfx-learn-more">
+
+                                  </div>
+                                </span>
+
+                                <span class="js-hide">
+
+                                </span>
+
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+
+                      <h3 class="a-spacing-base a-spacing-top-micro">Order Summary</h3>
+                      <table id="subtotals-marketplace-table" data-testid="" class="a-normal a-align-bottom a-spacing-none a-size-small">
+
+
+
+
+
+
+
+
+
+
+                        <tbody>
+                          <tr data-testid="" class="small-line-height">
+                            <td>
+
+
+
+
+
+
+
+
+                              <span>Items:</span>
+
+
+
+
+
+                            </td>
+                            <td class="a-text-right aok-nowrap a-nowrap">
+
+
+
+                              $129.99
+
+
+                            </td>
+                          </tr>
+
+
+
+
+
+
+
+
+
+
+                          <tr data-testid="" class="small-line-height">
+                            <td>
+
+
+
+
+
+
+
+
+                              <span>Shipping &amp; handling:</span>
+
+
+
+
+
+                            </td>
+                            <td class="a-text-right aok-nowrap a-nowrap">
+
+
+
+                              $0.00
+
+
+                            </td>
+                          </tr>
+
+
+
+
+
+
+
+
+
+
+                          <tr data-testid="" class="order-summary-separator">
+                            <td></td>
+                            <td class="a-span3 cell-separator">
+                              <hr aria-hidden="true" class="a-spacing-none a-divider-normal">
+                            </td>
+                          </tr>
+
+                          <tr data-testid="" class="small-line-height">
+                            <td>
+
+
+
+
+
+
+
+
+                              <span>Total before tax:</span>
+
+
+
+
+
+                            </td>
+                            <td class="a-text-right aok-nowrap a-nowrap">
+
+
+
+                              $129.99
+
+
+                            </td>
+                          </tr>
+
+
+
+
+
+
+
+
+
+
+                          <tr data-testid="" class="small-line-height">
+                            <td>
+
+
+
+
+
+
+
+
+                              <span>Estimated tax to be collected:</span>
+
+
+
+
+
+                            </td>
+                            <td class="a-text-right aok-nowrap a-nowrap">
+
+
+
+                              $13.13
+
+
+                            </td>
+                          </tr>
+
+
+
+
+
+
+
+
+
+
+                          <tr class="order-summary-grand-total">
+                            <td colspan="2" class="cell-separator">
+                              <hr aria-hidden="true" class="a-spacing-mini a-divider-normal">
+                            </td>
+                          </tr>
+
+
+
+
+
+
+                          <tr data-testid="">
+                            <td class="a-color-price a-size-medium a-text-bold">
+                              <span>Order total:</span>
+                            </td>
+                            <td class="a-color-price a-size-medium a-text-right grand-total-price aok-nowrap a-text-bold a-nowrap">
+
+
+
+                              $143.12
+
+
+                            </td>
+                          </tr>
+
+
+
+
+
+
+
+
+
+
+                        </tbody>
+                      </table>
+
+
+
+                    </div>
+
+
+
+
+
+
+
+
+
+
+                  </div>
+                </div>
+
+              </div>
+            </div>
+          </div>
+
+          <div id="callouts" class="a-box a-last a-color-alternate-background cacheable-spp-section celwidget" data-csa-c-id="fs4yq7-phkv1b-8rqxvd-h5w0su" data-cel-widget="callouts">
+            <div class="a-box-inner">
+              <div class="a-row a-spacing-mini a-size-mini"><a href="/gp/help/customer/display.html/ref=chk_help_shipcosts_pri?ie=UTF8&amp;nodeId=468520" target="AmazonHelp">How are shipping costs calculated?</a></div>
+              <div class="a-row a-spacing-mini a-size-mini">Prime shipping benefits have been applied to your order.</div>
+            </div>
+          </div>
+
+          <script type="text/javascript">
+            P.when("client-side-metrics").execute(function(csm) {
+              csm.finishWidgetTiming('orderSummary');
+            });
+          </script>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div> -->

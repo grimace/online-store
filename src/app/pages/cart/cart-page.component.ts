@@ -2,8 +2,9 @@
  * Created by andrew.yang on 7/31/2017.
  */
 import { Component } from '@angular/core';
-import {CartBaseComponent} from "./cart-base.component";
-import {CartService} from "../../services/cart.service";
+import { Router } from '@angular/router';
+import { CartBaseComponent } from "./cart-base.component";
+import { CartService } from "../../services/cart.service";
 
 @Component({
     selector: 'app-cart-page',
@@ -11,7 +12,7 @@ import {CartService} from "../../services/cart.service";
     templateUrl: 'cart-page.component.html'
 })
 export class CartPageComponent extends CartBaseComponent{
-    constructor(protected cartService: CartService,) {
+    constructor(private router: Router,protected cartService: CartService) {
         super(cartService);
     }
 
@@ -21,5 +22,9 @@ export class CartPageComponent extends CartBaseComponent{
     changeQuantity = (cart,quantity) => {
         cart.quantity = quantity;
         this.cartService.reloadCart(this.cartList);
+    }
+
+    goto(page) {
+      this.router.navigate([page]);
     }
 }

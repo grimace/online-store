@@ -20,6 +20,10 @@ export const appRoutes=[
         loadChildren:'./pages/cart/cart-page.module#CartPageModule'
     },
     {
+        path:'checkout',
+        loadChildren:'./pages/checkout/checkout.module#CheckoutModule'
+    },
+    {
         path:'**',
         loadChildren:'./pages/category/category.module#CategoryModule'
     }
